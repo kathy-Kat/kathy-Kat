@@ -1,13 +1,13 @@
-## Hi I''m Katli 👋
+## Hi, I'm Katli 👋
 
-🎓 BSc Mathematics & Information Systems student (UNISA) - *studies in progress*
-📊 Aspiring Data & Business Analyst  
+- 🎓 BSc Mathematics & Information Systems student (UNISA)
+- 📊 Aspiring Data Analyst | Turning data into insights using Power BI, SQL, and business analysis technique
 
 
 
 - ## 💡 Skills
 
-- **Data Visualization:** Power BI (Dashboards, DAX)
+- **Data Visualization:** Power BI (Dashboards, DAX), Tableau
 - **Data Analysis:** Excel (Cleaning, Transformation, Pivot Tables)
 - **Programming:** Python (Data analysis basics)
 - **Databases:** SQL (Learning)
@@ -17,12 +17,34 @@
 
 -  ## 📉 Projects
   
-- **Tottenham Performance Dashboard** (Power BI)
-- **Man City Player Stats Analysis** *Power BI)
-- **Simmple Calculator** (VS Code)
-- **Sales Data Dashboard** (coming soon)
+- ⚽ **Tottenham Performance Dashboard** (Power BI)
+    - Analyzed team performance across matchdays
+    - Built interactive visuals for points, goals, and player contributions
+    - Identified key performance trends
+  
+- ⚽ **Man City Player Stats Analysis** *Power BI)
+    - Compared player salary vs performance
+    - Built scatter plot for goals, assists, and salary
+    - Highlighted high-value players
+ 
+- 🧮 **Simmple Calculator** (VS Code)
+
+- 💸 **Sales Data Dashboard** (coming soon)
+
+  
+
+- ## 📈 What I'm Currently Learning
+  
+- **SQL** for data querying
+- **Advanced Power BI** (DAX + data modeling)
+- **Python** for data analysis
 
 
+- ## 🎯 Career Goal
 
-📫 **Contact:**
-- LinkedIn: 
+To become a Data Analyst and build impactful dashboards that help organizations make data-driven decisions.
+
+
+- ## 📞Contact
+- LinkedIn:
+- Emails: crmaponya@gmail.com
