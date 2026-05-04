@@ -6,17 +6,18 @@
 
 - ## 💡 Skills
 
-* **Data Visualization:** Power BI (Dashboards, DAX)
-* **Data Analysis:** Excel (Cleaning, Transformation, Pivot Tables)
-* **Programming:** Python (Data analysis basics)
-* **Databases:** SQL (Learning)
-* **Tools & Environments:** Visual Studio Code (Python, extensions), Git, GitHub
+- **Data Visualization:** Power BI (Dashboards, DAX)
+- **Data Analysis:** Excel (Cleaning, Transformation, Pivot Tables)
+- **Programming:** Python (Data analysis basics)
+- **Databases:** SQL (Learning)
+- **Tools & Environments:** Visual Studio Code (Python, extensions), Git, GitHub
 
 
-📈 Projects:
-- Tottenham Performance Dashboard (Power BI)
-- Player Stats Analysis
-- Sales Data Dashboard (coming soon)
+📈 **Projects:**
+- **Tottenham Performance Dashboard** (Power BI)
+- **Man City Player Stats Analysis** *Power BI)
+- **Simmple Calculator** (VS Code)
+- **Sales Data Dashboard** (coming soon)
 
-📫 Contact:
+📫 **Contact:**
 - LinkedIn: 
