@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi I''m Katli 👋
 
-<!--
-**kathy-Kat/kathy-Kat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Mathematics & Information Systems student (UNISA) - *studies in progress*
+📊 Aspiring Data & Business Analyst  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 💡 Skills
+
+* **Data Visualization:** Power BI (Dashboards, DAX)
+* **Data Analysis:** Excel (Cleaning, Transformation, Pivot Tables)
+* **Programming:** Python (Data analysis basics)
+* **Databases:** SQL (Learning)
+* **Tools & Environments:** Visual Studio Code (Python, extensions), Git, GitHub
+
+
+📈 Projects:
+- Tottenham Performance Dashboard (Power BI)
+- Player Stats Analysis
+- Sales Data Dashboard (coming soon)
+
+📫 Contact:
+- LinkedIn: 
