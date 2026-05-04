@@ -12,7 +12,7 @@
 - **Databases:** SQL (Learning)
 - **Tools & Environments:** Visual Studio Code (Python, extensions), Git, GitHub
 
-<hr>
+<br>
 
 ## 📉 Projects
   
