@@ -4,6 +4,7 @@
 📊 Aspiring Data & Business Analyst  
 
 
+
 - ## 💡 Skills
 
 - **Data Visualization:** Power BI (Dashboards, DAX)
@@ -13,11 +14,15 @@
 - **Tools & Environments:** Visual Studio Code (Python, extensions), Git, GitHub
 
 
-📈 **Projects:**
+
+-  ## 📉 Projects
+  
 - **Tottenham Performance Dashboard** (Power BI)
 - **Man City Player Stats Analysis** *Power BI)
 - **Simmple Calculator** (VS Code)
 - **Sales Data Dashboard** (coming soon)
+
+
 
 📫 **Contact:**
 - LinkedIn: 
