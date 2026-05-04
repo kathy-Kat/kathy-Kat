@@ -3,7 +3,7 @@
 - 🎓 BSc Mathematics & Information Systems student (UNISA)
 - 📊 Aspiring Data Analyst | Turning data into insights using Power BI, SQL, and business analysis technique
 
-
+<br>
 
 ## 💡 Skills
 
@@ -46,5 +46,5 @@ To become a Data Analyst and build impactful dashboards that help organizations 
 
 
 ## 📞Contact
-- LinkedIn:
-- Emails: crmaponya@gmail.com
+- LinkedIn: *https://linkedin.com/in/kathy-maps*
+- Emails: *crmaponya@gmail.com*
