@@ -3,7 +3,6 @@
 - 🎓 BSc Mathematics & Information Systems student (UNISA)
 - 📊 Aspiring Data Analyst | Turning data into insights using Power BI, SQL, and business analysis technique
 
-<br>
 
 ## 💡 Skills
 
@@ -13,7 +12,7 @@
 - **Databases:** SQL (Learning)
 - **Tools & Environments:** Visual Studio Code (Python, extensions), Git, GitHub
 
-
+<hr>
 
 ## 📉 Projects
   
@@ -31,7 +30,7 @@
 
 - 💸 **Sales Data Dashboard** (coming soon)
 
-  
+<br>
 
 ## 📈 What I'm Currently Learning
   
@@ -39,11 +38,13 @@
 - **Advanced Power BI** (DAX + data modeling)
 - **Python** for data analysis
 
+<br>
 
 ## 🎯 Career Goal
 
 To become a Data Analyst and build impactful dashboards that help organizations make data-driven decisions.
 
+<br>
 
 ## 📞Contact
 - LinkedIn: *https://linkedin.com/in/kathy-maps*
