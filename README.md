@@ -1,7 +1,7 @@
 ## Hi, I'm Katli 👋
-
+<br>
 - 🎓 BSc Mathematics & Information Systems student (UNISA)
-- 📊 Aspiring Data Analyst | Turning data into insights using Power BI, SQL, and business analysis technique
+- 📊 Aspiring Data Analyst | Turning data into insights using Power BI, SQL, and business analysis techniques
 
 
 ## 💡 Skills
@@ -11,10 +11,9 @@
 - **Programming:** Python (Data analysis basics)
 - **Databases:** SQL (Learning)
 - **Tools & Environments:** Visual Studio Code (Python, extensions), Git, GitHub
-
 <br>
 
-## 📉 Projects
+## 📈 Projects
   
 - ⚽ **Tottenham Performance Dashboard** (Power BI)
     - Analyzed team performance across matchdays
@@ -29,21 +28,18 @@
 - 🧮 **Simmple Calculator** (VS Code)
 
 - 💸 **Sales Data Dashboard** (coming soon)
-
 <br>
 
-## 📈 What I'm Currently Learning
+## ⌛ What I'm Currently Learning
   
 - **SQL** for data querying
 - **Advanced Power BI** (DAX + data modeling)
 - **Python** for data analysis
-
 <br>
 
 ## 🎯 Career Goal
 
 To become a Data Analyst and build impactful dashboards that help organizations make data-driven decisions.
-
 <br>
 
 ## 📞Contact
