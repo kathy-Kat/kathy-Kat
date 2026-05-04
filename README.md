@@ -5,7 +5,7 @@
 
 
 
-- ## 💡 Skills
+## 💡 Skills
 
 - **Data Visualization:** Power BI (Dashboards, DAX), Tableau
 - **Data Analysis:** Excel (Cleaning, Transformation, Pivot Tables)
@@ -15,7 +15,7 @@
 
 
 
--  ## 📉 Projects
+## 📉 Projects
   
 - ⚽ **Tottenham Performance Dashboard** (Power BI)
     - Analyzed team performance across matchdays
@@ -33,18 +33,18 @@
 
   
 
-- ## 📈 What I'm Currently Learning
+## 📈 What I'm Currently Learning
   
 - **SQL** for data querying
 - **Advanced Power BI** (DAX + data modeling)
 - **Python** for data analysis
 
 
-- ## 🎯 Career Goal
+## 🎯 Career Goal
 
 To become a Data Analyst and build impactful dashboards that help organizations make data-driven decisions.
 
 
-- ## 📞Contact
+## 📞Contact
 - LinkedIn:
 - Emails: crmaponya@gmail.com
