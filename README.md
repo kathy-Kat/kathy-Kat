@@ -1,4 +1,4 @@
-## Hi, I'm Katli 👋
+## Hi, I'm Cathy👋
 - 🎓 BSc Mathematics & Information Systems student (UNISA)
 - 📊 Aspiring Data Analyst | Turning data into insights using Power BI, SQL, and business analysis techniques
 <br>
