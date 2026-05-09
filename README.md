@@ -18,16 +18,16 @@
     - Analyzed team performance across matchdays
     - Built interactive visuals for points, goals, and player contributions
     - Identified key performance trends
-    - <br>
+  <br>
   
 - ⚽ **Man City Player Stats Analysis** (Power BI)
     - Compared player salary vs performance
     - Built scatter plot for goals, assists, and salary
     - Highlighted high-value players
-    - <br>
+  <br>
  
 - 🧮 **Simple Calculator** (VS Code)
-- <br>
+<br>
 
 - 💸 **Sales Data Dashboard** (coming soon...)
 
