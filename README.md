@@ -24,7 +24,7 @@
     - Built scatter plot for goals, assists, and salary
     - Highlighted high-value players
  
-- 🧮 **Simmple Calculator** (VS Code)
+- 🧮 **Simple Calculator** (VS Code)
 
 - 💸 **Sales Data Dashboard** (coming soon...)
 <br>
