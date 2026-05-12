@@ -1,7 +1,7 @@
 ## Hi, I'm Cathy👋
 - 🎓 BSc Mathematics & Information Systems student (UNISA)
 - 📊 _Aspiring Data / BI / Systems Analyst_
-- 💡 **Interested in:** data analytics, business intelligence, systems analysis, and solving business problems through technology
+- 💡 **Interested in:** Data analytics, business intelligence, systems analysis, and solving business problems through technology
 - 🛠️ Skilled in building projects using Power BI, SQL, Excel, Python, and business analysis techniques
 <br>
 
