@@ -17,6 +17,8 @@
 ## 📈 Projects
 
 - 🧮 **Simple Calculator** (VS Code)
+    - A simple and responsive web-based calculator application built with HTML, CSS, and JavaScript. The project is deployed on Netlify for fast, reliable, and   global access.
+    - 📌 **_Features;_** Basic arithmetic operations (addition, subtraction, multiplication, division), Clean and user-friendly interface, Responsive design for desktop and mobile, Instant calculation updates, Lightweight and fast performance
 <br>
 
 - ⚽ **Man City Player Stats Analysis** (Power BI)
