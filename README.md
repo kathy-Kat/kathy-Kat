@@ -15,21 +15,22 @@
 <br>
 
 ## 📈 Projects
-  
-- ⚽ **Tottenham Performance Dashboard** (Power BI)
-    - Analyzed team performance across matchdays
-    - Built interactive visuals for points, goals, and player contributions
-    - Identified key performance trends
-  <br>
-  
+
+- 🧮 **Simple Calculator** (VS Code)
+<br>
+
 - ⚽ **Man City Player Stats Analysis** (Power BI)
     - Compared player salary vs performance
     - Built scatter plot for goals, assists, and salary
     - Highlighted high-value players
   <br>
- 
-- 🧮 **Simple Calculator** (VS Code)
-<br>
+  
+- ⚽ **Tottenham Performance Dashboard** (coming soon...)
+    - Analyzed team performance across matchdays
+    - Built interactive visuals for points, goals, and player contributions
+    - Identified key performance trends
+  <br>
+  
 
 - 💸 **Sales Data Dashboard** (coming soon...)
 
