@@ -41,11 +41,12 @@ Currently building projects focused on:
 <br>
 
 ## 📊 GitHub Stats
-
+<br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathy-Kat&theme=tokyonight" />
 </p>
 
+<br>
 
 ## 📊 Featured Project
 
