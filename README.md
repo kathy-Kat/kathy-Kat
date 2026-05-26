@@ -57,7 +57,6 @@ Currently building projects focused on:
  <br>
 <img width="1298" height="726" alt="image" src="https://github.com/user-attachments/assets/e57c55fc-0cd8-46ca-890b-da25df9c8b8d" />
 
-
 <br>
 
 ## 📜 Certifications
@@ -68,20 +67,15 @@ Currently building projects focused on:
 <br>
 
 
-## 🎯 Interests
+## 🎯 Career Goal
 
+To become a Data Analyst and build impactful dashboards that help organizations make data-driven decisions
 - Data Analytics
 - Business Intelligence
 - Systems Analysis
 - Dashboard Development
 - Sports Analytics
 - Data Visualization
-<br>
-
-
-## 🎯 Career Goal
-
-To become a Data Analyst and build impactful dashboards that help organizations make data-driven decisions.
 <br>
 
 ## 📫 Connect With Me
