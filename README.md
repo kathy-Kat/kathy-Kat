@@ -1,16 +1,21 @@
-## Hi, I'm Cathy👋
-- 🎓 BSc Mathematics & Information Systems student
-- 📊 Aspiring _Data / BI / Systems Analyst_
-- 💡 **Interested in:** Data analytics, business intelligence, systems analysis, and solving business problems through technology
-- 🛠️ **Skilled in:** building projects using Power BI, SQL, Excel, Python, and business analysis techniques
-<br>
-
 <h1 align="center">Hi, I'm Katli 👋</h1>
 
 <p align="center">
-BSc Mathematics & Information Systems Student <br>
-Aspiring Data Analyst • Systems Analyst • Power BI Enthusiast
+🎓 BSc Mathematics & Information Systems Student <br>
+📊 Aspiring Data Analyst • Systems Analyst • Power BI Enthusiast
 </p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kathy-Kat&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathy-Kat&theme=tokyonight" />
+</p>
+
 
 ## 💡 Skills
 
