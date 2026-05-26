@@ -55,9 +55,8 @@ Currently building projects focused on:
 
 ### ⚽ Man-City Performance Dashboard
  <br>
+<img width="1298" height="726" alt="image" src="https://github.com/user-attachments/assets/e57c55fc-0cd8-46ca-890b-da25df9c8b8d" />
 
-![Dashboard Preview](<img width="1298" height="726" alt="image" src="https://github.com/user-attachments/assets/e57c55fc-0cd8-46ca-890b-da25df9c8b8d" />
-)
 
 <br>
 
