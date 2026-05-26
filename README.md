@@ -17,14 +17,26 @@
 </p>
 
 
+## 🌱 Currently Learning
+
+- SQL for Data Analytics
+- Power BI Dashboard Design
+- Python for Data Analysis
+- Data Cleaning & Visualization - Power BI (Dashboards, DAX), Tableau
+- Business Intelligence Concepts
+<br>
+
 ## 💡 Skills
 
-- **Data Visualization:** Power BI (Dashboards, DAX), Tableau
 - **Data Analysis:** Excel (Cleaning, Transformation, Pivot Tables)
-- **Programming:** Python (Data analysis basics)
-- **Databases:** SQL (Learning)
 - **Tools & Environments:** Visual Studio Code (Python, extensions), Git, GitHub
 <br>
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
 ## 📈 Projects
 
