@@ -81,6 +81,5 @@ To become a Data Analyst and build impactful dashboards that help organizations 
 ## 📫 Connect With Me
 
 - LinkedIn: *https://linkedin.com/in/kathy-maps*
-- Portfolio: yourportfolio.com
 - Email: *crmaponya@gmail.com*
 <br>
