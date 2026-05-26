@@ -5,6 +5,41 @@
 📊 Aspiring Data Analyst • Systems Analyst • Power BI Enthusiast
 </p>
 
+## 👨‍💻 About Me
+
+I am passionate about transforming data into meaningful insights.
+I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python.
+
+Currently building projects focused on:
+- Data analytics
+- Business intelligence
+- Systems analysis
+- Sports analytics
+<br>
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git" />
+</p>
+
+| Category | Technologies |
+|----------|---------------|
+| 🌐 Frontend | HTML5, CSS3, JavaScript |
+| 📊 Data & BI | Power BI, Tableau, Microsoft Excel |
+| 🐍 Programming | Python |
+| 🛠 Tools & Platforms | VS Code, Git, GitHub |
+<br>
+
+## 🌱 Currently Learning
+
+- SQL for Data Analytics
+- Power BI Dashboard Design
+- Advanced Power BI (DAX + data modeling)
+- Python for Data Analysis
+- Data Cleaning & Visualization - Power BI (Dashboards, DAX), Tableau
+- Business Intelligence Concepts
+<br>
 
 ## 📊 GitHub Stats
 
@@ -17,68 +52,39 @@
 </p>
 
 
-## 🌱 Currently Learning
+## 📊 Featured Project
 
-- SQL for Data Analytics
-- Power BI Dashboard Design
-- Python for Data Analysis
-- Data Cleaning & Visualization - Power BI (Dashboards, DAX), Tableau
-- Business Intelligence Concepts
+### ⚽ Man-City Performance Dashboard
+ <br>
+
+
+## 📜 Certifications
+
+- SQL Fundamentals – Kaggle
+- Power BI Basics – Simplilearn
+- Python for Beginners – Kaggle
 <br>
 
-## 💡 Skills
 
-- **Data Analysis:** Excel (Cleaning, Transformation, Pivot Tables)
-- **Tools & Environments:** Visual Studio Code (Python, extensions), Git, GitHub
+## 🎯 Interests
+
+- Data Analytics
+- Business Intelligence
+- Systems Analysis
+- Dashboard Development
+- Sports Analytics
+- Data Visualization
 <br>
 
-## 🛠 Tech Stack
-
-| Category | Tools |
-|----------|-------|
-| Languages | HTML5, CSS3, JavaScript, Python |
-| Data & BI | Power BI, Tableau, Microsoft Excel |
-| Tools | VS Code, Git, GitHub |
-
-
-## 📈 Projects
-
-- 🧮 **Simple Calculator** (VS Code)
-    - A simple and responsive web-based calculator application built with HTML, CSS, and JavaScript. The project is deployed on Netlify for fast, reliable, and   global access.
-    - 📌 **_Features;_**
-      <p> Basic arithmetic operations (addition, subtraction, multiplication, division), Clean and user-friendly interface, Responsive design for desktop and mobile, Instant calculation updates, Lightweight and fast performance </p>p>
-<br>
-
-- ⚽ **Tottenham Player Stats Analysis** (Power BI)
-    - Analyzed team performance across matchdays
-    - Built interactive visuals for points, goals, and player contributions
-    - Identified key performance trends
-  <br>
-
-- ⚽ **Man City Performance Dashboard** (Power BI)
-    - Compared player salary vs performance
-    - Built scatter plot for goals, assists, and salary
-    - Highlighted high-value players
-  <br>
-  
-
-- 💸 **Sales Data Dashboard** (coming soon...)
-
-  
-<br>
-
-## ⌛ What I'm Currently Learning
-  
-- **SQL** for data querying
-- **Advanced Power BI** (DAX + data modeling)
-- **Python** for data analysis
-<br>
 
 ## 🎯 Career Goal
 
 To become a Data Analyst and build impactful dashboards that help organizations make data-driven decisions.
 <br>
 
-## 📞Contact
+## 📫 Connect With Me
+
 - LinkedIn: *https://linkedin.com/in/kathy-maps*
-- Emails: *crmaponya@gmail.com*
+- Portfolio: yourportfolio.com
+- Email: *crmaponya@gmail.com*
+<br>
