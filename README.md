@@ -20,7 +20,7 @@ Currently building projects focused on:
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,jypter notebook" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git" />
 </p>
 
 | Category | Technologies |
@@ -28,7 +28,8 @@ Currently building projects focused on:
 | 🌐 Frontend | HTML5, CSS3, JavaScript |
 | 📊 Data & BI | Power BI, Tableau, Microsoft Excel |
 | 🐍 Programming | Python |
-| 🛠 Tools & Platforms | VS Code, Git, GitHub, Jupyter Notebook |
+| 📓 Data Tools | Jupyter Notebook |
+| 🛠 Tools & Platforms | VS Code, Git, GitHub |
 <br>
 
 ## 🌱 Currently Learning
