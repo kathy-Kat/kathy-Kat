@@ -34,9 +34,12 @@
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
+| Category | Tools |
+|----------|-------|
+| Languages | HTML5, CSS3, JavaScript, Python |
+| Data & BI | Power BI, Tableau, Microsoft Excel |
+| Tools | VS Code, Git, GitHub |
+
 
 ## 📈 Projects
 
