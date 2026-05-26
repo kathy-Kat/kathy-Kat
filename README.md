@@ -1,9 +1,16 @@
 ## Hi, I'm Cathy👋
-- 🎓 BSc Mathematics & Information Systems student (UNISA)
+- 🎓 BSc Mathematics & Information Systems student
 - 📊 Aspiring _Data / BI / Systems Analyst_
 - 💡 **Interested in:** Data analytics, business intelligence, systems analysis, and solving business problems through technology
-- 🛠️ Skilled in building projects using Power BI, SQL, Excel, Python, and business analysis techniques
+- 🛠️ **Skilled in:** building projects using Power BI, SQL, Excel, Python, and business analysis techniques
 <br>
+
+<h1 align="center">Hi, I'm Katli 👋</h1>
+
+<p align="center">
+BSc Mathematics & Information Systems Student <br>
+Aspiring Data Analyst • Systems Analyst • Power BI Enthusiast
+</p>
 
 ## 💡 Skills
 
@@ -18,16 +25,17 @@
 
 - 🧮 **Simple Calculator** (VS Code)
     - A simple and responsive web-based calculator application built with HTML, CSS, and JavaScript. The project is deployed on Netlify for fast, reliable, and   global access.
-    - 📌 **_Features;_** Basic arithmetic operations (addition, subtraction, multiplication, division), Clean and user-friendly interface, Responsive design for desktop and mobile, Instant calculation updates, Lightweight and fast performance
+    - 📌 **_Features;_**
+      <p> Basic arithmetic operations (addition, subtraction, multiplication, division), Clean and user-friendly interface, Responsive design for desktop and mobile, Instant calculation updates, Lightweight and fast performance </p>p>
 <br>
 
-- ⚽ **Tottenham Performance Dashboard** (coming soon...)
+- ⚽ **Tottenham Player Stats Analysis** (Power BI)
     - Analyzed team performance across matchdays
     - Built interactive visuals for points, goals, and player contributions
     - Identified key performance trends
   <br>
 
-- ⚽ **Man City Player Stats Analysis** (Power BI)
+- ⚽ **Man City Performance Dashboard** (Power BI)
     - Compared player salary vs performance
     - Built scatter plot for goals, assists, and salary
     - Highlighted high-value players
