@@ -33,12 +33,11 @@ Currently building projects focused on:
 
 ## 🌱 Currently Learning
 
-- SQL for Data Analytics
-- Power BI Dashboard Design
-- Advanced Power BI (DAX + data modeling)
-- Python for Data Analysis
-- Data Cleaning & Visualization - Power BI (Dashboards, DAX), Tableau
-- Business Intelligence Concepts
+- **SQL** for Data Analytics
+- **Power BI** Dashboard Design, Business Intelligence concepts
+- **Advanced Power BI** (DAX + data modeling)
+- **Python** for Data Analysis
+- Data Cleaning & Visualization (Tableau)
 <br>
 
 ## 📊 GitHub Stats
@@ -57,6 +56,10 @@ Currently building projects focused on:
 ### ⚽ Man-City Performance Dashboard
  <br>
 
+![Dashboard Preview](<img width="1298" height="726" alt="image" src="https://github.com/user-attachments/assets/e57c55fc-0cd8-46ca-890b-da25df9c8b8d" />
+)
+
+<br>
 
 ## 📜 Certifications
 
