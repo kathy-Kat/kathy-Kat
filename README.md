@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Katli 👋</h1>
+<h1 align="center">Hi, I'm Cathy 👋</h1>
 
 <p align="center">
 🎓BSc Mathematics & Information Systems Student <br>
-📊 Aspiring Data Analyst & Systems Analyst |  SQL, Python, Tableau
+📊 Aspiring Data Analyst & Systems Analyst |  SQL, MS Excel, Power BI, Tableau, Python
 </p>
 
 
@@ -108,3 +108,17 @@ To become a Data Analyst and build impactful dashboards that help organizations 
 - LinkedIn: *https://linkedin.com/in/kathy-maps*
 - Email: *crmaponya@gmail.com*
 <br>
+
+<p align="center">
+  <a href="mailto:crmaponya@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  </a>
+
+  <a href="https://linkedin.com/in/kathy-maps">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+
+  <a href="https://github.com/kathy-Kat">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
+</p>
