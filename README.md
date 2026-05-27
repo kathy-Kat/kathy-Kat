@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Katli 👋</h1>
 
 <p align="center">
-🎓 BSc Mathematics & Information Systems Student <br>
+🎓 **BSc Mathematics & Information Systems Student <br>**
 📊 Aspiring Data Analyst • Systems Analyst • Power BI Enthusiast
 </p>
 
