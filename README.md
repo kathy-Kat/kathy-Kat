@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Katli 👋</h1>
 
 <p align="center">
-🎓 **BSc Mathematics & Information Systems Student <br>**
+🎓BSc Mathematics & Information Systems Student <br>
 📊 Aspiring Data Analyst • Systems Analyst • Power BI Enthusiast
 </p>
 
@@ -15,6 +15,31 @@ Currently building projects focused on:
 - Business intelligence
 - Systems analysis
 - Sports analytics
+<br>
+
+# Hi, I'm Katli 👋
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=chartreuse-dark" />
+</p>
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,jupyter" />
+</p>
 <br>
 
 ## 🛠 Tech Stack
