@@ -17,31 +17,6 @@ Currently building projects focused on:
 - Sports analytics
 <br>
 
-# Hi, I'm Katli 👋
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=chartreuse-dark" />
-</p>
-
----
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git,jupyter" />
-</p>
-<br>
-
 ## 🛠 Tech Stack
 
 <p align="left">
