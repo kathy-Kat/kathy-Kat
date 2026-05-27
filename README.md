@@ -2,8 +2,9 @@
 
 <p align="center">
 🎓BSc Mathematics & Information Systems Student <br>
-📊 Aspiring Data Analyst • Systems Analyst • Power BI Enthusiast
+📊 Aspiring Data Analyst & Systems Analyst |  SQL, Python, Tableau
 </p>
+
 
 ## 👨‍💻 About Me
 
@@ -30,6 +31,32 @@ Currently building projects focused on:
 | 🐍 Programming | Python |
 | 📓 Data Tools | Jupyter Notebook |
 | 🛠 Tools & Platforms | VS Code, Git, GitHub |
+<br>
+
+## 📁 Projects
+
+### 📈 Power BI Dashboard – Manchester City Performance Analysis
+Built an interactive dashboard to analysis 2023-24 season stats. The project focuses on team performance tracking, financial analysis, player efficiency evaluation, match result trends and squad composition insights.
+
+👉 https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard
+
+---
+
+### 📈 Power BI Dashboard – Tottenham Hotspur Performance Analysis
+A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. The dashboard provides insights into squad market value, player salary distribution, goal contributions, EA Sports ratings, age distribution, player nationality and position-based analysis.
+
+👉 https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main
+
+---
+
+### 🧠 Retail Sales Analysis (SQL)
+....coming soon
+
+👉 https://
+
+
+---
+
 <br>
 
 ## 🌱 Currently Learning
