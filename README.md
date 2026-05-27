@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓BSc Mathematics & Information Systems Student <br>
-📊 Aspiring Data Analyst & Systems Analyst |  SQL, MS Excel, Power BI, Tableau, Python
+📊 Aspiring Data & Systems Analyst |  SQL, MS Excel, Power BI, Tableau, Python
 </p>
 
 
