@@ -103,13 +103,7 @@ To become a Data Analyst and build impactful dashboards that help organizations 
 - Data Visualization
 <br>
 
-## 📫 Connect With Me
-
-- LinkedIn: *https://linkedin.com/in/kathy-maps*
-- Email: *crmaponya@gmail.com*
-<br>
-
-## 📫 Contact Me
+## 📫 Connect With me
 
 <p align="center">
   <a href="mailto:crmaponya@gmail.com">
