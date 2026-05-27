@@ -36,14 +36,16 @@ Currently building projects focused on:
 ## 📁 Projects
 
 ### 📈 Power BI Dashboard – Manchester City Performance Analysis
-Built an interactive dashboard to analysis 2023-24 season stats. The project focuses on team performance tracking, financial analysis, player efficiency evaluation, match result trends and squad composition insights.
+<pr> Built an interactive dashboard to analysis 2023-24 season stats. 
+The project focuses on team performance tracking, financial analysis, player efficiency evaluation, match result trends and squad composition insights. </pr>
 
 👉 https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard
 
 ---
 
 ### 📈 Power BI Dashboard – Tottenham Hotspur Performance Analysis
-A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. The dashboard provides insights into squad market value, player salary distribution, goal contributions, EA Sports ratings, age distribution, player nationality and position-based analysis.
+<pr> A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. 
+The dashboard provides insights into squad market value, player salary distribution, goal contributions, EA Sports ratings, age distribution, player nationality and position-based analysis. </pr>
 
 👉 https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main
 
@@ -76,13 +78,6 @@ A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squa
 
 <br>
 
-## 📊 Featured Project
-
-### ⚽ Man-City Performance Dashboard
- <br>
-<img width="1298" height="726" alt="image" src="https://github.com/user-attachments/assets/e57c55fc-0cd8-46ca-890b-da25df9c8b8d" />
-
-<br>
 
 ## 📜 Certifications
 
