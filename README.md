@@ -49,31 +49,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 | 📊 [Global Sales Performance Dashboard](https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard) | Interactive Power BI dashboard analyzing global sales performance, profit, and regional trends. | Power BI |
 | ⚽ [Manchester City Dashboard](https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard) | Football performance dashboard analyzing team stats, match results, and player performance. | Power BI |
 | ⚽ [Tottenham Hotspur Dashboard](https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main) | Data dashboard tracking Tottenham match performance, goals, wins, and season trends. | Power BI |
-| 🧮 [Simple Calculator](ADD-LINK-HERE) | Basic calculator application performing arithmetic operations with a clean user interface. | Python |
-
-## 📁 Projects
-
-### 🧠 Retail Sales Analysis (Power BI Dashboard)
-<pre> The Global Sales Performance Dashboard is an interactive business intelligence report designed to
-provide insights into sales performance across products, segments, countries, and time periods. 
-The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions. </pre>
-👉 https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard
-
----
-
-### 📊 Manchester City Season Performance Analysis (Power BI)
-<pre> Built an interactive dashboard to analysis 2023-24 season stats. 
-The project focuses on team performance tracking, financial analysis, player efficiency evaluation, 
-match result trends and squad composition insights. </pre>
-👉 https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard
-
----
-
-### 📈 Tottenham Hotspur Performance Analysis (Power BI)
-<pre> A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. 
-The dashboard provides insights into squad market value, player salary distribution, goal contributions, 
-EA Sports ratings, age distribution, player nationality and position-based analysis. </pre>
-👉 https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main
+| 🧮 [Simple Calculator](https://github.com/kathy-Kat/CALCULATOR) | Basic calculator application performing arithmetic operations with a clean user interface. | Python |
 
 ---
 <br>
