@@ -41,24 +41,29 @@ Currently building projects focused on:
 ## 📁 Projects
 
 ### 🧠 Retail Sales Analysis (Power BI Dashboard)
-The Global Sales Performance Dashboard is an interactive business intelligence report designed to provide insights into sales performance across products, segments, countries, and time periods. The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions.
+<pr> The Global Sales Performance Dashboard is an interactive business intelligence report designed to
+provide insights into sales performance across products, segments, countries, and time periods. 
+The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions. </pr>
 
-👉 https://
+👉 https:// 
+
 ---
 <hr>
 
 ### 📈 Power BI Dashboard – Manchester City Performance Analysis
 <pr> Built an interactive dashboard to analysis 2023-24 season stats. 
-The project focuses on team performance tracking, financial analysis, player efficiency evaluation, match result trends and squad composition insights. </pr>
+The project focuses on team performance tracking, financial analysis, player efficiency evaluation, 
+match result trends and squad composition insights. </pr>
 
 👉 https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard
-<br>
+
 ---
 <hr>
 
 ### 📈 Power BI Dashboard – Tottenham Hotspur Performance Analysis
 <pr> A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. 
-The dashboard provides insights into squad market value, player salary distribution, goal contributions, EA Sports ratings, age distribution, player nationality and position-based analysis. </pr>
+The dashboard provides insights into squad market value, player salary distribution, goal contributions, 
+EA Sports ratings, age distribution, player nationality and position-based analysis. </pr>
 
 👉 https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main
 
