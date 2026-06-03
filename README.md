@@ -1,23 +1,9 @@
 <h1 align="center">Hi, I'm Cathy 👋</h1>
 
-<h3 align="center">
-🎓 BSc Mathematics & Information Systems Student
-</h3>
-
-<h4 align="center">
-📈 Junior Data & BI Analyst | 📊 Aspiring Systems Analyst
-</h4>
-
 <p align="center">
-SQL • Excel • Power BI • Python • ETL • Data Visualization • Database Systems
-</p>
-
-<h1 align="center">Hi, I'm Cathy 👋</h1>
-
-<p align="center">
-🎓 BSc Mathematics & Information Systems Student <br>
+<strong>🎓 BSc Mathematics & Information Systems Student</strong> <br>
 📈 Junior Data & BI Analyst <br>
-📊 Aspiring Systems Analyst
+🔍 Exploring Data Science & Data Engineering
 </p>
 
 <p align="center">
