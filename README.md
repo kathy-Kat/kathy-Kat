@@ -4,7 +4,7 @@
 🎓BSc Mathematics & Information Systems (Student) <br>
 📊 Aspiring Data & Systems Analyst |  SQL, MS Excel, Power BI, Python, ETL, Data Visualisation, Database systems
 </p>
-<br>
+
 
 ## 👨‍💻 About Me
 
@@ -63,6 +63,7 @@ EA Sports ratings, age distribution, player nationality and position-based analy
 👉 https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main
 
 ---
+
 
 ## 🌱 Currently Learning
 
