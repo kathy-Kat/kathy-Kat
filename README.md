@@ -52,7 +52,7 @@ The Global Sales Performance Dashboard is an interactive business intelligence r
 The project focuses on team performance tracking, financial analysis, player efficiency evaluation, match result trends and squad composition insights. </pr>
 
 👉 https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard
-
+<br>
 ---
 
 ### 📈 Power BI Dashboard – Tottenham Hotspur Performance Analysis
