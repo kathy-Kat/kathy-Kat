@@ -4,7 +4,7 @@
 🎓BSc Mathematics & Information Systems (Student) <br>
 📊 Aspiring Data & Systems Analyst |  SQL, MS Excel, Power BI, Python, ETL, Data Visualisation, Database systems
 </p>
-
+<br>
 
 ## 👨‍💻 About Me
 
