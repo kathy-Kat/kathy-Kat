@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Cathy 👋</h1>
+<h1 align="center">Hi, I'm Cathy 😊 Lovely e-meet you! </h1>
 
 <p align="center">
 🎓BSc Mathematics & Information Systems (Student) <br>
@@ -16,7 +16,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 - Business intelligence
 - Systems analysis
 - Sports analytics
-
+<br>
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -52,7 +52,6 @@ The dashboard enables stakeholders to monitor key business metrics, identify tre
 <pre> Built an interactive dashboard to analysis 2023-24 season stats. 
 The project focuses on team performance tracking, financial analysis, player efficiency evaluation, 
 match result trends and squad composition insights. </pre>
-
 👉 https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard
 
 ---
@@ -61,7 +60,6 @@ match result trends and squad composition insights. </pre>
 <pre> A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. 
 The dashboard provides insights into squad market value, player salary distribution, goal contributions, 
 EA Sports ratings, age distribution, player nationality and position-based analysis. </pre>
-
 👉 https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main
 
 ---
@@ -73,6 +71,7 @@ EA Sports ratings, age distribution, player nationality and position-based analy
 - **Advanced Power BI** (DAX + data modeling)
 - **Python** for Data Analysis
 - Data Cleaning & Visualization (Tableau)
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -86,6 +85,7 @@ EA Sports ratings, age distribution, player nationality and position-based analy
 - Power BI Basics – Simplilearn
 - Python for Beginners – Kaggle
 
+
 ## 🎯 Career Goal
 
 To become a Data Analyst and build impactful dashboards that help organizations make data-driven decisions
@@ -95,6 +95,7 @@ To become a Data Analyst and build impactful dashboards that help organizations 
 - Dashboard Development
 - Sports Analytics
 - Data Visualization
+
 
 ## 📫 Connect With me
 
