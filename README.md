@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cathy 👋</h1>
 
 <p align="center">
-🎓BSc Mathematics & Information Systems Student <br>
+🎓BSc Mathematics & Information Systems (Student) <br>
 📊 Aspiring Data & Systems Analyst |  SQL, MS Excel, Power BI, Tableau, Python
 </p>
 
@@ -48,7 +48,7 @@ The dashboard enables stakeholders to monitor key business metrics, identify tre
 👉 https:// 
 
 ---
-
+<br>
 
 ### 📊 Manchester City Season Performance Analysis (Power BI)
 <pre> Built an interactive dashboard to analysis 2023-24 season stats. 
@@ -58,6 +58,7 @@ match result trends and squad composition insights. </pre>
 👉 https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard
 
 ---
+<br>
 
 ### 📈 Tottenham Hotspur Performance Analysis (Power BI)
 <pre> A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. 
@@ -67,7 +68,6 @@ EA Sports ratings, age distribution, player nationality and position-based analy
 👉 https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main
 
 ---
-
 <br>
 
 ## 🌱 Currently Learning
