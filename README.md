@@ -16,7 +16,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 - Business intelligence
 - Systems analysis
 - Sports analytics
-<br>
+
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -44,11 +44,9 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 <pre> The Global Sales Performance Dashboard is an interactive business intelligence report designed to
 provide insights into sales performance across products, segments, countries, and time periods. 
 The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions. </pre>
-
 👉 https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard
 
 ---
-<br>
 
 ### 📊 Manchester City Season Performance Analysis (Power BI)
 <pre> Built an interactive dashboard to analysis 2023-24 season stats. 
@@ -58,7 +56,6 @@ match result trends and squad composition insights. </pre>
 👉 https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard
 
 ---
-<br>
 
 ### 📈 Tottenham Hotspur Performance Analysis (Power BI)
 <pre> A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. 
@@ -68,7 +65,6 @@ EA Sports ratings, age distribution, player nationality and position-based analy
 👉 https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main
 
 ---
-<br>
 
 ## 🌱 Currently Learning
 
@@ -77,14 +73,11 @@ EA Sports ratings, age distribution, player nationality and position-based analy
 - **Advanced Power BI** (DAX + data modeling)
 - **Python** for Data Analysis
 - Data Cleaning & Visualization (Tableau)
-<br>
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathy-Kat&theme=tokyonight" />
 </p>
-
-<br />
 
 
 ## 📜 Certifications
@@ -92,8 +85,6 @@ EA Sports ratings, age distribution, player nationality and position-based analy
 - SQL Fundamentals – Kaggle
 - Power BI Basics – Simplilearn
 - Python for Beginners – Kaggle
-<br>
-
 
 ## 🎯 Career Goal
 
@@ -104,7 +95,6 @@ To become a Data Analyst and build impactful dashboards that help organizations 
 - Dashboard Development
 - Sports Analytics
 - Data Visualization
-<br>
 
 ## 📫 Connect With me
 
