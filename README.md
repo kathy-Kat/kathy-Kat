@@ -74,7 +74,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 - SQL Fundamentals – Kaggle
 - Power BI Basics – Simplilearn
 - Python for Beginners – Kaggle
-
+<br>
 
 ## 🎯 Career Goal
 
