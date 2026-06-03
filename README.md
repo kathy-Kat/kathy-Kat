@@ -44,8 +44,8 @@ Currently building projects focused on:
 The Global Sales Performance Dashboard is an interactive business intelligence report designed to provide insights into sales performance across products, segments, countries, and time periods. The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions.
 
 👉 https://
-<br>
-
+---
+<hr>
 
 ### 📈 Power BI Dashboard – Manchester City Performance Analysis
 <pr> Built an interactive dashboard to analysis 2023-24 season stats. 
@@ -54,6 +54,7 @@ The project focuses on team performance tracking, financial analysis, player eff
 👉 https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard
 <br>
 ---
+<hr>
 
 ### 📈 Power BI Dashboard – Tottenham Hotspur Performance Analysis
 <pr> A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. 
