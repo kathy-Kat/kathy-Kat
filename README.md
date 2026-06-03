@@ -32,6 +32,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
+<br>
 
 | Category | Technologies |
 |----------|---------------|
@@ -51,7 +52,6 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 | ⚽ [Tottenham Hotspur Dashboard](https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main) | Data dashboard tracking Tottenham match performance, goals, wins, and season trends. | Power BI |
 | 🧮 [Simple Calculator](https://github.com/kathy-Kat/CALCULATOR) | Basic calculator application performing arithmetic operations with a clean user interface. | Python |
 
----
 <br>
 
 ## 🌱 Currently Learning
