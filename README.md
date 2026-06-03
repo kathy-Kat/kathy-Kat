@@ -8,8 +8,8 @@
 
 ## 👨‍💻 About Me
 
-<pre> I am passionate about transforming data into meaningful insights.
-I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python. </pre>
+I am passionate about transforming data into meaningful insights.
+I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python.
 
 Currently building projects focused on:
 - Data analytics
