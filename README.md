@@ -20,23 +20,14 @@ Currently building projects focused on:
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kathy-Kat&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kathy-Kat&theme=tokyonight&hide_border=true"/>
-</p>
-
 
 | Category | Technologies |
 |----------|---------------|
-| 🌐 Frontend | HTML5, CSS3, JavaScript |
-| 📊 Data & BI | Power BI, Tableau, Microsoft Excel |
-| 🐍 Programming | Python |
-| 📓 Data Tools | Jupyter Notebook |
-| 🛠 Tools & Platforms | VS Code, Git, GitHub |
+| 📊 Business Intelligence | Power BI, Tableau, Microsoft Excel |
+| 🐍 Data Analysis | Python |
+| 🗄️ Databases | SQL |
+| 🌐 Web Development | HTML5, CSS3, JavaScript |
+| 🛠 Tools & Platforms | VS Code, Git, GitHub, Juypter Notebook |
 <br>
 
 ## 📁 Projects
