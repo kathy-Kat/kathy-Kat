@@ -70,12 +70,11 @@ The dashboard provides insights into squad market value, player salary distribut
 <br>
 
 ## 📊 GitHub Stats
-<br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathy-Kat&theme=tokyonight" />
 </p>
 
-<br>
+<br />
 
 
 ## 📜 Certifications
