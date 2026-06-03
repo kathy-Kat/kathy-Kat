@@ -20,9 +20,15 @@ Currently building projects focused on:
 
 ## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,git" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kathy-Kat&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kathy-Kat&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 | Category | Technologies |
 |----------|---------------|
