@@ -45,7 +45,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 provide insights into sales performance across products, segments, countries, and time periods. 
 The dashboard enables stakeholders to monitor key business metrics, identify trends, and make data-driven decisions. </pre>
 
-👉 https:// 
+👉 https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard
 
 ---
 <br>
