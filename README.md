@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Cathy 😊 Lovely e-meet you! </h1>
+🎓BSc Mathematics & Information Systems | Student | Jnr Data & BI Analyst
 
 <p align="center">
-🎓BSc Mathematics & Information Systems (Student) <br>
-📊 Aspiring Data & Systems Analyst |  SQL, MS Excel, Power BI, Python, ETL, Data Visualisation, Database systems
+
+📊 Aspiring Systems Analyst |  SQL, MS Excel, Power BI, Python, ETL, Data Visualisation, Database systems
 </p>
 
 ## 👨‍💻 About Me
