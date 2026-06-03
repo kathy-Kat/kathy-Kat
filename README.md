@@ -46,10 +46,10 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 | 📌 Project | 🧠 Description | 🛠 Tools |
 |------------|---------------|----------|
-| 📊 Sales Performance Dashboard | Interactive Power BI dashboard analyzing sales trends, profit margins, and product performance. <br> 🔗 [View Project](ADD-LINK-HERE) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| 🛒 Retail Sales Analytics | Data analysis project identifying top products, revenue trends, and customer behaviour insights. <br> 🔗 [View Project](ADD-LINK-HERE) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| 🐍 Python Data Analysis Project | Data cleaning, transformation, and exploratory data analysis using Python (Pandas & NumPy). <br> 🔗 [View Project](ADD-LINK-HERE) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| 💾 SQL Retail Database Analysis | SQL queries used to extract business insights from structured retail data. <br> 🔗 [View Project](ADD-LINK-HERE) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| 📊 [Global Sales Performance Dashboard](https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard) | Interactive Power BI dashboard analyzing global sales performance, profit, and regional trends. | Power BI |
+| ⚽ [Manchester City Dashboard](https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard) | Football performance dashboard analyzing team stats, match results, and player performance. | Power BI |
+| ⚽ [Tottenham Hotspur Dashboard](https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main) | Data dashboard tracking Tottenham match performance, goals, wins, and season trends. | Power BI |
+| 🧮 [Simple Calculator](ADD-LINK-HERE) | Basic calculator application performing arithmetic operations with a clean user interface. | Python |
 
 ## 📁 Projects
 
