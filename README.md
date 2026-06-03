@@ -59,7 +59,7 @@ match result trends and squad composition insights. </pre>
 
 ---
 
-### 📈 Power BI Dashboard – Tottenham Hotspur Performance Analysis
+### 📊 Power BI Dashboard – Tottenham Hotspur Performance Analysis
 <pre> A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. 
 The dashboard provides insights into squad market value, player salary distribution, goal contributions, 
 EA Sports ratings, age distribution, player nationality and position-based analysis. </pre>
