@@ -48,7 +48,7 @@ The dashboard enables stakeholders to monitor key business metrics, identify tre
 👉 https:// 
 
 ---
-<hr>
+
 
 ### 📈 Power BI Dashboard – Manchester City Performance Analysis
 <pre> Built an interactive dashboard to analysis 2023-24 season stats. 
@@ -58,7 +58,6 @@ match result trends and squad composition insights. </pre>
 👉 https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard
 
 ---
-<hr>
 
 ### 📈 Power BI Dashboard – Tottenham Hotspur Performance Analysis
 <pre> A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. 
