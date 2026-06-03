@@ -40,7 +40,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 | 🗄️ Databases | SQL |
 | 🌐 Web Development | HTML5, CSS3, JavaScript |
 | 🛠 Tools & Platforms | VS Code, Git, GitHub, Juypter Notebook |
-<br>
+
 
 ## 🚀 Featured Projects
 
@@ -61,13 +61,13 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 - **Advanced Power BI** (DAX + data modeling)
 - **Python** for Data Analysis
 - Data Cleaning & Visualization (Tableau)
-
+<br>
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathy-Kat&theme=tokyonight" />
 </p>
-
+<br>
 
 ## 📜 Certifications
 
