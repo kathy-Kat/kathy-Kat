@@ -11,7 +11,7 @@
 I am passionate about transforming data into meaningful insights.
 I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python.
 
-Currently building projects focused on:
+**_Currently building projects focused on:_** 
 - Data analytics
 - Business intelligence
 - Systems analysis
