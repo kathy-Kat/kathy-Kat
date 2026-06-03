@@ -12,6 +12,18 @@
 SQL • Excel • Power BI • Python • ETL • Data Visualization • Database Systems
 </p>
 
+<h1 align="center">Hi, I'm Cathy 👋</h1>
+
+<p align="center">
+🎓 BSc Mathematics & Information Systems Student <br>
+📈 Junior Data & BI Analyst <br>
+📊 Aspiring Systems Analyst
+</p>
+
+<p align="center">
+💡 SQL • Excel • Power BI • Python • ETL • Data Visualization • Database Systems
+</p>
+
 ## 👨‍💻 About Me
 
 I am passionate about transforming data into meaningful insights.
