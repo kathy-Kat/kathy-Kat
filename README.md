@@ -50,7 +50,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 | 📊 [Global Sales Performance Dashboard](https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard) | Interactive Power BI dashboard analyzing global sales performance, profit, and regional trends. | Power BI |
 | ⚽ [Manchester City Dashboard](https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard) | Football performance dashboard analyzing team stats, match results, and player performance. | Power BI |
 | ⚽ [Tottenham Hotspur Dashboard](https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main) | Data dashboard tracking Tottenham match performance, goals, wins, and season trends. | Power BI |
-| 🧮 [Simple Calculator](https://github.com/kathy-Kat/CALCULATOR) | Basic calculator application performing arithmetic operations with a clean user interface. | Python |
+| 🧮 [Simple Calculator](https://github.com/kathy-Kat/CALCULATOR) | Basic calculator application performing arithmetic operations with a clean user interface. | HTML5, CSS3, JS, Python |
 
 <br>
 
