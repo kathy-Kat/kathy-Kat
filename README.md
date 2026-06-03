@@ -41,7 +41,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 | 🗄️ Databases | SQL |
 | 🌐 Web Development | HTML5, CSS3, JavaScript |
 | 🛠 Tools & Platforms | VS Code, Git, GitHub, Juypter Notebook |
-
+<br>
 
 ## 🚀 Featured Projects
 
