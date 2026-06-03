@@ -8,8 +8,8 @@
 
 ## 👨‍💻 About Me
 
-I am passionate about transforming data into meaningful insights.
-I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python.
+<pre> I am passionate about transforming data into meaningful insights.
+I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python. </pre>
 
 Currently building projects focused on:
 - Data analytics
@@ -50,7 +50,7 @@ The dashboard enables stakeholders to monitor key business metrics, identify tre
 ---
 
 
-### 📈 Power BI Dashboard – Manchester City Performance Analysis
+### 📊 Manchester City Season Performance Analysis (Power BI)
 <pre> Built an interactive dashboard to analysis 2023-24 season stats. 
 The project focuses on team performance tracking, financial analysis, player efficiency evaluation, 
 match result trends and squad composition insights. </pre>
@@ -59,7 +59,7 @@ match result trends and squad composition insights. </pre>
 
 ---
 
-### 📊 Power BI Dashboard – Tottenham Hotspur Performance Analysis
+### 📈 Tottenham Hotspur Performance Analysis (Power BI)
 <pre> A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance for the 25-26 season. 
 The dashboard provides insights into squad market value, player salary distribution, goal contributions, 
 EA Sports ratings, age distribution, player nationality and position-based analysis. </pre>
