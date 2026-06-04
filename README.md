@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid%20%7C%20On-site-2ea44f?style=flat-square" alt="Open to Work">
+<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid%20%7C%20Onsite-2ea44f?style=flat-square" alt="Open to Work">
 <img src="https://img.shields.io/badge/Location-Johannesburg%2C%20South%20Africa-1f6feb?style=flat-square" alt="Location">
 </p>
 
