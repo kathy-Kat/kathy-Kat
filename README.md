@@ -33,6 +33,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/ETL-Data%20Pipelines-orange?style=flat-square" alt="ETL">
 </p>
 <br>
 
