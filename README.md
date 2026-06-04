@@ -10,6 +10,14 @@
 💡  MS Excel • SQL • Power BI • Python • Tableau • ETL • Data Visualization • Database Systems
 </p>
 
+<p align="center">
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid%20%7C%20Onsite-brightgreen?style=for-the-badge)
+
+![Location](https://img.shields.io/badge/Location-Johannesburg%2C%20South%20Africa-blue?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</p>
+
 ## 👨‍💻 About Me
 
 I am passionate about transforming data into meaningful insights.
