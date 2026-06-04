@@ -74,6 +74,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 ## 📜 Certifications
 
+- Completed SQLBolt Interactive SQL Tutorial
 - SQL Fundamentals – Kaggle
 - Power BI Basics – Simplilearn
 - Python for Beginners – Kaggle
