@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-💡 SQL • Excel • Power BI • Python • ETL • Data Visualization • Database Systems
+💡  MS Excel • SQL • Power BI • Python • Tableau • ETL • Data Visualization • Database Systems
 </p>
 
 ## 👨‍💻 About Me
