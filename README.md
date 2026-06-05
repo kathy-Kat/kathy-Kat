@@ -74,10 +74,10 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 ## 📜 Certifications
 
+- AI Fundamentals - DataCamp
+- Understanding Data Visualization - DataCamp
 - Completed SQLBolt Interactive SQL Tutorial
-- SQL Fundamentals – Kaggle
-- Power BI Basics – Simplilearn
-- Python for Beginners – Kaggle
+- Introduction to SQL – Kaggle
 <br>
 
 ## 🎯 Career Goal
