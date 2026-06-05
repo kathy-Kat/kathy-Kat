@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>🎓 BSc Mathematics & Information Systems Student</strong> <br>
-📈 Junior Data & BI Analyst <br>
+📈 Junior Data & BI Analyst | MS Excel • SQL • Power BI • Python • Tableau <br>
 🔍 Exploring Data Science & Data Engineering
 </p>
 
