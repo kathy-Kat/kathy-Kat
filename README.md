@@ -74,7 +74,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 ## 📜 Certifications
 
-- Introduction to SQL
+- Introduction to SQL - DataCamp
 - AI Fundamentals - DataCamp
 - Understanding Data Visualization - DataCamp
 - Completed SQLBolt Interactive SQL Tutorial
