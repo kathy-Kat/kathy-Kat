@@ -71,17 +71,16 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 </p>
 <br>
 
-## 🚀 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kathy-Kat&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kathy-Kat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="760" src="https://streak-stats.demolab.com?user=kathy-Kat&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kathy-Kat&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📜 Certifications
 
