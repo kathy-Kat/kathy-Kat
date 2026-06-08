@@ -3,7 +3,7 @@
 <p align="center">
 <strong>🎓 BSc Mathematics & Information Systems Student</strong> <br>
 📈 Front-end developer | Junior Data & BI Analyst | MS Excel • SQL • Power BI • Python • Tableau <br>
-🔍 Exploring Data Science & Data Engineering
+<strong>>🔍Exploring Data Science & Data Engineering</strong
 </p>
 
 <p align="center">
