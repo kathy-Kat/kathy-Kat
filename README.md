@@ -71,6 +71,12 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 </p>
 <br>
 
+<div align="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kathy-Kat&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/kathy-Kat)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kathy-Kat)
+</div>
+
 ## 📜 Certifications
 
 - Responsive Web-design - FreeCodeCamp
