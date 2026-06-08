@@ -73,11 +73,11 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 ## 📜 Certifications
 
+- Responsive Web-design - FreeCodeCamp
 - Introduction to SQL - DataCamp
 - AI Fundamentals - DataCamp
 - Understanding Data Visualization - DataCamp
 - Completed SQLBolt Interactive SQL Tutorial
-- Introduction to SQL – Kaggle
 <br>
 
 ## 🎯 Career Goal
