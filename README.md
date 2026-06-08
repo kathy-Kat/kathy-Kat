@@ -71,11 +71,15 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 </p>
 <br>
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kathy-Kat&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/kathy-Kat)
+## 🚀 GitHub Analytics
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kathy-Kat)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kathy-Kat&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="760" src="https://streak-stats.demolab.com?user=kathy-Kat&theme=tokyonight&hide_border=true"/>
 
 </div>
 
