@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>🎓 BSc Mathematics & Information Systems Student</strong> <br>
-📈 Junior Data & BI Analyst | MS Excel • SQL • Power BI • Python • Tableau <br>
+📈 Front-end developer | Junior Data & BI Analyst | MS Excel • SQL • Power BI • Python • Tableau <br>
 🔍 Exploring Data Science & Data Engineering
 </p>
 
@@ -19,8 +19,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 **_Currently building projects focused on:_** 
 - Data analytics
 - Business intelligence
-- Systems analysis
-- Sports analytics
+- Responsive Web design
 <br>
 
 ## 🛠 Tech Stack
