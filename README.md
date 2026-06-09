@@ -44,7 +44,6 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 | 🌐 Web Development | HTML5, CSS3, JavaScript |
 | 🛠 Tools & Platforms | VS Code, Git, GitHub, Juypter Notebook |
 <br>
-
 <hr>
 
 ## ⚽ Football Analytics Lab
@@ -61,6 +60,7 @@ Python, Power BI, and statistics.</pre>
 🟨 Premier League Salary Intelligence <br>
 🟩 Football Data Warehouse <br>
 🟦 Player Performance Modelling
+
 <br>
 
 ### 📊 Lab Metrics
@@ -69,6 +69,7 @@ Python, Power BI, and statistics.</pre>
 📈 Dashboards Built: **3+** <br>
 🗄️ SQL Queries Written: **50+** <br>
 🐍 Python Projects: **Growing**
+
 <br>
 
 ### 🚀 Next Project
@@ -76,10 +77,9 @@ Python, Power BI, and statistics.</pre>
 Building an end-to-end Premier League analytics
 platform featuring ETL pipelines, SQL databases,
 and interactive Power BI dashboards.
+<br>
 
-<br>
 <hr>
-<br>
 
 ## 🚀 Featured Projects
 
@@ -131,12 +131,12 @@ and interactive Power BI dashboards.
 ◯ Junior Data/ BI analyst Role
 <br>
 
+
 ## 🎯 Career Goal
 
 To become a data professional specializing in Data Analytics, Data Science, and Data Engineering, transforming data into actionable insights, intelligent solutions, and scalable data systems.
 <br>
-
-**Areas of Interest**
+#### Areas of Interest
 - Data Analytics
 - Dashboard Development
 - Sports Analytics
@@ -144,7 +144,7 @@ To become a data professional specializing in Data Analytics, Data Science, and 
 - Data Science
 - Data Engineering
 - Machine Learning
-
+<br>
 
 ## 📫 Connect With me
 
