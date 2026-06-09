@@ -45,6 +45,42 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 | 🛠 Tools & Platforms | VS Code, Git, GitHub, Juypter Notebook |
 <br>
 
+<hr>
+
+## ⚽ Football Analytics Lab
+
+**Welcome to my football analytics workspace**
+
+<pre>Here I explore player performance, team metrics,
+salary efficiency, and match data using SQL,
+Python, Power BI, and statistics.</pre>
+
+### 🔬 Current Research
+
+🟥 Arsenal Performance Analytics (25/26 Season)
+🟨 Premier League Salary Intelligence
+🟩 Football Data Warehouse
+🟦 Player Performance Modelling
+
+### 📊 Lab Metrics
+
+⚽ Datasets Analyzed: 15+
+📈 Dashboards Built: 3
+🗄️ SQL Queries Written: 50+
+🐍 Python Projects: Growing
+
+### 🛠️ Toolkit
+
+SQL | Python | Power BI | Excel | Statistics
+
+### 🚀 Next Project
+
+<pre>Building an end-to-end Premier League analytics
+platform featuring ETL pipelines, SQL databases,
+and interactive Power BI dashboards.</pre>
+
+<hr>
+
 ## 🚀 Featured Projects
 
 | 📌 Project | 🧠 Description | 🛠 Tools |
@@ -78,6 +114,21 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 - AI Fundamentals - DataCamp
 - Understanding Data Visualization - DataCamp
 - Completed SQLBolt Interactive SQL Tutorial
+<br>
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+## ⌛ 2026 Data career roadmap
+
+✓ SQL
+✓ Data Visualization 
+✓ Dashboard development
+✓ AI Fundamentals
+✓ Power BI Projects
+◯ Python
+◯ Advanced Data Analytics
+◯ Data Engineering Projects
+◯ Junior Data/ BI analyst Role
 <br>
 
 ## 🎯 Career Goal
