@@ -2,8 +2,9 @@
 
 <p align="center">
 <strong>🎓 BSc Mathematics & Information Systems Student</strong> <br>
-📈 Front-end developer | Junior Data & BI Analyst | Excel • SQL • Power BI • Python <br>
-<strong>🔍Exploring Data Science & Data Engineering</strong
+📊 Junior Data & BI Analyst | Interested in Sports analytics & perfomance metrics <br>
+⚙️Excel • SQL • Power BI • Python | Front-end development <br>
+<strong>🔍Exploring Data Science & Data Engineering</strong <br>
 </p>
 
 <p align="center">
@@ -17,7 +18,7 @@ I am passionate about transforming data into meaningful insights.
 I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python.
 
 **_Currently building projects focused on:_** 
-- Data analytics
+- Data analytics & sports metrics
 - Business intelligence
 - Responsive Web design
 <br>
@@ -63,22 +64,21 @@ Python, Power BI, and statistics.</pre>
 🟦 Player Performance Modelling
 <br>
 
+
 ### 📊 Lab Metrics
 
 ⚽ Datasets Analyzed: **15+** <br>
 📈 Dashboards Built: **3+** <br>
 🗄️ SQL Queries Written: **50+** <br>
 🐍 Python Projects: **Growing**
-
 <br>
+
 
 ### 🚀 Next Project
 
 Building an end-to-end Premier League analytics platform featuring ETL pipelines, SQL databases,and interactive Power BI dashboards.
 
 <hr>
-
-<br>
 
 ## 🚀 Featured Projects
 
