@@ -81,6 +81,7 @@ and interactive Power BI dashboards.
 
 <hr>
 <br>
+
 ## 🚀 Featured Projects
 
 | 📌 Project | 🧠 Description | 🛠 Tools |
@@ -109,14 +110,16 @@ and interactive Power BI dashboards.
 
 ## 📜 Certifications
 
-- Responsive Web-design - FreeCodeCamp
-- Introduction to SQL - DataCamp
-- AI Fundamentals - DataCamp
-- Understanding Data Visualization - DataCamp
-- Completed SQLBolt Interactive SQL Tutorial
+✅ Completed interactive SQL Tutorial - **SQLBolt** <br>
+✅ Introduction to SQL - **DataCamp** <br>
+✅ Understanding Data Visualization - **DataCamp** <br>
+✅ AI Fundamentals - **DataCamp** <br>
+🔃 Relational Databases - **FreeCodeCamp** <br>
+🔃 Responsive Web-design - **FreeCodeCamp** <br>
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <br> 
+
 ## ⌛ 2026 Data career roadmap
 
 ✓ SQL <br>
