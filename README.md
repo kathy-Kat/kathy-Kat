@@ -53,6 +53,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 <pre>Here I explore player performance, team metrics,
 salary efficiency, and match data using SQL,
 Python, Power BI, and statistics.</pre>
+<br>
 
 ### 🔬 Current Research
 
@@ -60,7 +61,6 @@ Python, Power BI, and statistics.</pre>
 🟨 Premier League Salary Intelligence <br>
 🟩 Football Data Warehouse <br>
 🟦 Player Performance Modelling
-
 <br>
 
 ### 📊 Lab Metrics
@@ -74,12 +74,10 @@ Python, Power BI, and statistics.</pre>
 
 ### 🚀 Next Project
 
-Building an end-to-end Premier League analytics
-platform featuring ETL pipelines, SQL databases,
-and interactive Power BI dashboards.
-<br>
+Building an end-to-end Premier League analytics platform featuring ETL pipelines, SQL databases,and interactive Power BI dashboards.
 
 <hr>
+
 <br>
 
 ## 🚀 Featured Projects
@@ -118,6 +116,7 @@ and interactive Power BI dashboards.
 🔃 Responsive Web-design - **FreeCodeCamp** <br>
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 <br> 
 
 ## ⌛ 2026 Data career roadmap
@@ -131,8 +130,8 @@ and interactive Power BI dashboards.
 ◯ Advanced Data Analytics <br>
 ◯ Data Engineering Projects <br>
 ◯ Junior Data/ BI analyst Role
-<br>
 
+<br>
 
 ## 🎯 Career Goal
 
