@@ -82,13 +82,17 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 ## 🎯 Career Goal
 
-To become a Data Analyst and build impactful dashboards that help organizations make data-driven decisions
+To become a data professional specializing in Data Analytics, Data Science, and Data Engineering, transforming data into actionable insights, intelligent solutions, and scalable data systems.
+<br>
+
+**Areas of Interest**
 - Data Analytics
-- Business Intelligence
-- Systems Analysis
 - Dashboard Development
 - Sports Analytics
-- Data Visualization
+- Business Intelligence
+- Data Science
+- Data Engineering
+- Machine Learning
 
 
 ## 📫 Connect With me
