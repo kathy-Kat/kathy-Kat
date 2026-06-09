@@ -49,7 +49,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 ## ⚽ Football Analytics Lab
 
-**Welcome to my football analytics workspace**
+### Welcome to my football analytics workspace
 
 <pre>Here I explore player performance, team metrics,
 salary efficiency, and match data using SQL,
@@ -57,27 +57,31 @@ Python, Power BI, and statistics.</pre>
 
 ### 🔬 Current Research
 
-🟥 Arsenal Performance Analytics (25/26 Season)
-🟨 Premier League Salary Intelligence
-🟩 Football Data Warehouse
-🟦 Player Performance Modelling
+- 🟥 Arsenal Performance Analytics (25/26 Season)
+- 🟨 Premier League Salary Intelligence
+- 🟩 Football Data Warehouse
+- 🟦 Player Performance Modelling
+<br>
 
 ### 📊 Lab Metrics
 
-⚽ Datasets Analyzed: 15+
-📈 Dashboards Built: 3
-🗄️ SQL Queries Written: 50+
-🐍 Python Projects: Growing
+- ⚽ Datasets Analyzed: **15+**
+- 📈 Dashboards Built: **3+**
+- 🗄️ SQL Queries Written: **50+**
+- 🐍 Python Projects: **Growing**
+<br>
 
 ### 🛠️ Toolkit
 
 SQL | Python | Power BI | Excel | Statistics
+<br>
 
 ### 🚀 Next Project
 
-<pre>Building an end-to-end Premier League analytics
+Building an end-to-end Premier League analytics
 platform featuring ETL pipelines, SQL databases,
-and interactive Power BI dashboards.</pre>
+and interactive Power BI dashboards.
+<br>
 
 <hr>
 
