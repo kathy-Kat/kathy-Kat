@@ -115,7 +115,6 @@ and interactive Power BI dashboards.
 - Understanding Data Visualization - DataCamp
 - Completed SQLBolt Interactive SQL Tutorial
 <br>
-
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## ⌛ 2026 Data career roadmap
@@ -129,8 +128,8 @@ and interactive Power BI dashboards.
 ◯ Advanced Data Analytics <br>
 ◯ Data Engineering Projects <br>
 ◯ Junior Data/ BI analyst Role
-<br>
 
+<br>
 
 ## 🎯 Career Goal
 
