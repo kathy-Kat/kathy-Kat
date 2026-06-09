@@ -57,23 +57,18 @@ Python, Power BI, and statistics.</pre>
 
 ### 🔬 Current Research
 
-- 🟥 Arsenal Performance Analytics (25/26 Season)
-- 🟨 Premier League Salary Intelligence
-- 🟩 Football Data Warehouse
-- 🟦 Player Performance Modelling
+🟥 Arsenal Performance Analytics (25/26 Season) <br>
+🟨 Premier League Salary Intelligence <br>
+🟩 Football Data Warehouse <br>
+🟦 Player Performance Modelling
 <br>
 
 ### 📊 Lab Metrics
 
-- ⚽ Datasets Analyzed: **15+**
-- 📈 Dashboards Built: **3+**
-- 🗄️ SQL Queries Written: **50+**
-- 🐍 Python Projects: **Growing**
-<br>
-
-### 🛠️ Toolkit
-
-SQL | Python | Power BI | Excel | Statistics
+⚽ Datasets Analyzed: **15+** <br>
+📈 Dashboards Built: **3+** <br>
+🗄️ SQL Queries Written: **50+** <br>
+🐍 Python Projects: **Growing**
 <br>
 
 ### 🚀 Next Project
@@ -81,9 +76,10 @@ SQL | Python | Power BI | Excel | Statistics
 Building an end-to-end Premier League analytics
 platform featuring ETL pipelines, SQL databases,
 and interactive Power BI dashboards.
-<br>
 
+<br>
 <hr>
+<br>
 
 ## 🚀 Featured Projects
 
@@ -124,14 +120,14 @@ and interactive Power BI dashboards.
 
 ## ⌛ 2026 Data career roadmap
 
-✓ SQL
-✓ Data Visualization 
-✓ Dashboard development
-✓ AI Fundamentals
-✓ Power BI Projects
-◯ Python
-◯ Advanced Data Analytics
-◯ Data Engineering Projects
+✓ SQL <br>
+✓ Data Visualization <br>
+✓ Dashboard development <br>
+✓ AI Fundamentals <br>
+✓ Power BI Projects <br>
+◯ Python <br>
+◯ Advanced Data Analytics <br>
+◯ Data Engineering Projects <br>
 ◯ Junior Data/ BI analyst Role
 <br>
 
