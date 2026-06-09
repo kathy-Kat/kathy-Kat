@@ -51,9 +51,10 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 ### Welcome to my football analytics workspace
 
-<pre>Here I explore player performance, team metrics,
-salary efficiency, and match data using SQL,
-Python, Power BI, and statistics.</pre>
+<br>Here I explore player performance, team metrics, <br>
+salary efficiency, and match data using SQL, <br>
+Python, Power BI, and statistics.<br>
+
 <br>
 
 ### 🔬 Current Research
@@ -62,6 +63,7 @@ Python, Power BI, and statistics.</pre>
 🟨 Premier League Salary Intelligence <br>
 🟩 Football Data Warehouse <br>
 🟦 Player Performance Modelling
+
 <br>
 
 
@@ -71,6 +73,7 @@ Python, Power BI, and statistics.</pre>
 📈 Dashboards Built: **3+** <br>
 🗄️ SQL Queries Written: **50+** <br>
 🐍 Python Projects: **Growing**
+
 <br>
 
 
