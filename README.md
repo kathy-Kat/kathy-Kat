@@ -107,6 +107,21 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 </p>
 <br>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kathy-Kat&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=aura" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathy-Kat&theme=aura" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kathy-Kat&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
 ## 📜 Certifications
 
 ✅ Completed interactive SQL Tutorial - **SQLBolt** <br>
