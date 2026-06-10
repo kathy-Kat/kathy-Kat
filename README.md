@@ -110,7 +110,6 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kathy-Kat&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=aura" />
 </p>
 
