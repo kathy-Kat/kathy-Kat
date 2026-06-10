@@ -100,9 +100,10 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 - Data Cleaning & Visualization (Tableau)
 <br>
 
+
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathy-Kat&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathy-Kat&theme=tokyonight&v=2" />
 </p>
 <br>
 
