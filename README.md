@@ -117,10 +117,7 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathy-Kat&theme=aura" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kathy-Kat&theme=radical&no-frame=true&margin-w=15" />
-</p>
+<br>
 
 ## 📜 Certifications
 
