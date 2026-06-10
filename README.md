@@ -62,8 +62,8 @@ Python, Power BI, and statistics.<br>
 🟨 Premier League Salary Intelligence <br>
 🟩 Football Data Warehouse <br>
 🟦 Player Performance Modelling
-<br>
 
+<br>
 
 ### 📊 Lab Metrics
 
@@ -71,8 +71,8 @@ Python, Power BI, and statistics.<br>
 📈 Dashboards Built: **3+** <br>
 🗄️ SQL Queries Written: **50+** <br>
 🐍 Python Projects: **Growing**
-<br>
 
+<br>
 
 ### 🚀 Next Project
 
