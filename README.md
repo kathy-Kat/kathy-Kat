@@ -84,7 +84,7 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 
 | 📌 Project | 🧠 Description | 🛠 Tools |
 |------------|---------------|----------|
-| ⚽ Arsenal 2025/26 Analytics...COMING SOON | Current PL winners dashboard analyzing team stats, match results, and player performance. | Power BI |
+| ⚽ [Arsenal 2025/26 PL Analytics](https://github.com/kathy-Kat/Arsenal-2025-26-PL-Season-Analytics)| Current PL winners dashboard analyzing team stats, match results, and player performance. | Power BI |
 | ⚽ [Manchester City 2023/24 PL Season](https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard) | Football performance dashboard analyzing team stats, match results, and player performance. | Power BI |
 | 📊 [Global Sales Analytics](https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard) | Interactive Power BI dashboard analyzing global sales performance, profit, and regional trends. | Power BI |
 | ⚽ [Tottenham Hotspur Dashboard](https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main) | Data dashboard tracking Tottenham match performance, goals, wins, and season trends. | Power BI |
