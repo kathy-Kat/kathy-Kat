@@ -148,6 +148,8 @@ To become a data professional specializing in Data Analytics, Data Science, and 
 ### 🚀 Areas of Interest
 
 <p align="center"> <img src="https://img.shields.io/badge/Data_Analytics-0052CC?style=for-the-badge&logo=googleanalytics&logoColor=white" /> <img src="https://img.shields.io/badge/Business_Intelligence-0078D4?style=for-the-badge&logo=powerbi&logoColor=white" /> <img src="https://img.shields.io/badge/Dashboard_Development-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Sports_Analytics-E10600?style=for-the-badge&logo=premierleague&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Engineering-4285F4?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" /> </p>
+<br>
+
 
 ## 📫 Connect With me
 
