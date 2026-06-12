@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Hybrid%20%7C%20Onsite-2ea44f?style=flat-square" alt="Open to Work">
-<img src="https://img.shields.io/badge/Location-Johannesburg%2C%20South%20Africa-1f6feb?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/Open_to_Work-Remote%20%7C%20Hybrid%20%7C%20Onsite-2ea44f?style=flat&logo=linkedin&logoColor=white" alt="Open to Work">
+  <img src="https://img.shields.io/badge/Johannesburg-South%20Africa-1f6feb?style=flat&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
 ## 👨‍💻 About Me
@@ -166,14 +166,14 @@ To become a data professional specializing in Data Analytics, Data Science, and 
 
 <p align="center">
   <a href="mailto:crmaponya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://linkedin.com/in/kathy-maps">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/kathy-Kat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View_My_Projects-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
