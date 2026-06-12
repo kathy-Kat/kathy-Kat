@@ -25,15 +25,18 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 ## 🛠 Tech Stack
 <p align="center">
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/ETL-Data%20Pipelines-orange?style=flat-square" alt="ETL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 <br>
 
@@ -147,20 +150,17 @@ To become a data professional specializing in Data Analytics, Data Science, and 
 
 ### 🚀 Areas of Interest
 
-<p align="center"> <img src="https://img.shields.io/badge/Data_Analytics-0052CC?style=for-the-badge&logo=googleanalytics&logoColor=white" /> <img src="https://img.shields.io/badge/Business_Intelligence-0078D4?style=for-the-badge&logo=powerbi&logoColor=white" /> <img src="https://img.shields.io/badge/Dashboard_Development-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Sports_Analytics-E10600?style=for-the-badge&logo=premierleague&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Engineering-4285F4?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" /> </p>
-<br>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Analytics-0052CC?style=flat&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business_Intelligence-0078D4?style=flat&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dashboard_Development-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Sports_Analytics-E10600?style=flat&logo=premierleague&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analytics-0052CC?style=flat&logo=googleanalytics&logoColor=white">
+  <img src="https://img.shields.io/badge/Business_Intelligence-0078D4?style=flat&logo=powerbi&logoColor=white">
+  <img src="https://img.shields.io/badge/Dashboard_Development-F2C811?style=flat&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Sports_Analytics-E10600?style=flat&logo=premierleague&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Engineering-4285F4?style=flat&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=flat&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Data_Engineering-4285F4?style=flat&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=tensorflow&logoColor=orange">
 </p>
-
+<br>
 
 ## 📫 Connect With me
 
