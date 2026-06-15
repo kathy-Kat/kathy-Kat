@@ -21,7 +21,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 - Data analytics & sports metrics
 - Business intelligence
 - Responsive Web design
-<br>
+<hr>
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -75,13 +75,13 @@ Python, Power BI, and statistics.<br>
 🗄️ SQL Queries Written: **50+** <br>
 🐍 Python Projects: **Growing**
 
-<br>
+<hr>
 
 ### 🚀 Next Project
 
 Building an end-to-end Premier League analytics platform featuring ETL pipelines, SQL databases,and interactive Power BI dashboards.
 
-<hr>
+<br>
 
 ## 🚀 Featured Projects
 
@@ -93,7 +93,7 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 | ⚽ [Tottenham Hotspur Dashboard](https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main) | Data dashboard tracking Tottenham match performance, goals, wins, and season trends. | Power BI |
 | 🧮 [Simple Calculator](https://github.com/kathy-Kat/CALCULATOR) | Basic calculator application performing arithmetic operations with a clean user interface. | HTML5, CSS3, JS, Python |
 
-<br>
+<hr>
 
 ## 🌱 Currently Learning
 
@@ -102,8 +102,8 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 - **Advanced Power BI** (DAX + data modeling)
 - **Python** for Data Analysis
 - Data Cleaning & Visualization (Tableau)
-<br>
 
+<hr>
 
 ## 📊 GitHub Stats
 
@@ -114,7 +114,8 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=aura" />
 </p>
-<br>
+
+<hr>
 
 ## 📜 Certifications
 
@@ -127,7 +128,7 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<br> 
+<hr>
 
 ## ⌛ 2026 Data career roadmap
 
@@ -141,7 +142,7 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 ◯ Data Engineering Projects <br>
 ◯ Junior Data/ BI analyst Role
 
-<br>
+<hr>
 
 ## 🎯 Career Goal
 
@@ -160,7 +161,8 @@ To become a data professional specializing in Data Analytics, Data Science, and 
   <img src="https://img.shields.io/badge/Data_Engineering-4285F4?style=flat&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=tensorflow&logoColor=orange">
 </p>
-<br>
+
+<hr>
 
 ## 📫 Connect With me
 
