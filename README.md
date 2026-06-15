@@ -77,8 +77,6 @@ Python, Power BI, and statistics.<br>
 🗄️ SQL Queries Written: **50+** <br>
 🐍 Python Projects: **Growing**
 <br>
-
-
 <hr>
 
 ### 🚀 Next Project
