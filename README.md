@@ -21,10 +21,10 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 - Data analytics & sports metrics
 - Business intelligence
 - Responsive Web design
-  
+<br>
+
 <hr>
 
-<br>
 
 ## 🛠 Tech Stack
 <p align="center">
