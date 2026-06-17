@@ -101,10 +101,10 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 
 ## 🌱 Current Focus (June 2026)
 
-⚽ Tottenham Hotspur Performance Analytics
-⚽ Arsenal Performance Analytics
-📊 Advanced DAX & Data Modeling
-🐍 Python for Data Analysis
+⚽ Tottenham Hotspur Performance Analytics <br>
+⚽ Arsenal Performance Analytics <br>
+📊 Advanced DAX & Data Modeling <br>
+🐍 Python for Data Analysis <br>
 🏗️ Building a Football Data Warehouse
 <br>
 
