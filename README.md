@@ -160,7 +160,6 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 <br>
 
 <hr>
-<br>
 
 <h3 align="center">📍 Current Focus</h3>
 
