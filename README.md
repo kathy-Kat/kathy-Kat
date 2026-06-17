@@ -98,13 +98,14 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 
 <hr>
 
-## 🌱 Currently Learning
 
-- **SQL** for Data Analytics
-- **Power BI** Dashboard Design, Business Intelligence concepts
-- **Advanced Power BI** (DAX + data modeling)
-- **Python** for Data Analysis
-- Data Cleaning & Visualization (Tableau)
+## 🌱 Current Focus (June 2026)
+
+⚽ Tottenham Hotspur Performance Analytics
+⚽ Arsenal Performance Analytics
+📊 Advanced DAX & Data Modeling
+🐍 Python for Data Analysis
+🏗️ Building a Football Data Warehouse
 <br>
 
 <hr>
@@ -138,16 +139,30 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 
 ## ⌛ 2026 Data career roadmap
 
-✓ SQL <br>
-✓ Data Visualization <br>
-✓ Dashboard development <br>
-✓ AI Fundamentals <br>
-✓ Power BI Projects <br>
-◯ Python <br>
-◯ Advanced Data Analytics <br>
-◯ Data Engineering Projects <br>
-◯ Junior Data/ BI analyst Role
+### Foundation ✅
+- SQL
+- Data Visualization
+- Dashboard Development
+- AI Fundamentals
+- Power BI Portfolio Projects
+
+### Growth 🔄
+- Python for Data Analytics
+- Advanced DAX & Data Modeling
+- Statistical Analysis
+- End-to-End Analytics Projects
+
+### Next Level 🎯
+- Data Engineering Projects
+- Cloud Fundamentals (AWS/Azure)
+- Professional Portfolio Expansion
+- Junior Data / BI Analyst Role
 <br>
+
+<hr>
+<br>
+
+## 📍 Current Focus: Building Power BI, SQL, and Sports Analytics projects while completing my BSc Mathematics & Information Systems degree.
 
 <hr>
 
