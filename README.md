@@ -2,10 +2,11 @@
 
 <p align="center">
 <strong>🎓 BSc Mathematics & Information Systems Student</strong> <br>
-📊 Aspiring Data & BI Analyst | Interested in Sports analytics & performance metrics <br>
-⚙️<em>Excel • SQL • Power BI • Python</em> <br>
-<strong>🔍Exploring Data Science & Data Engineering</strong <br>
+Aspiring Data & BI Analyst | Interested in Sports analytics & performance metrics <br>
+⚙️<em>📊 Power BI • SQL • Excel • Python</em> <br>
+<strong>⚽ Sports Analytics | Business Intelligence | Data Storytelling</strong <br>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to_Work-Remote%20%7C%20Hybrid%20%7C%20Onsite-2ea44f?style=flat&logo=linkedin&logoColor=white" alt="Open to Work">
@@ -86,6 +87,12 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 <br>
 
 ## 🚀 Featured Projects
+
+⚽ **Manchester City 2023/24 Analytics** <br>
+Power BI • SQL • Data Modeling
+
+<img width="1320" height="734" alt="image" src="https://github.com/user-attachments/assets/130b6067-1ab9-406d-afd2-3fb92be1733d" />
+
 
 | 📌 Project | 🧠 Description | 🛠 Tools |
 |------------|---------------|----------|
