@@ -162,12 +162,6 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 <hr>
 <br>
 
-### 📍 Current Focus: 
-Building Power BI, SQL, and Sports Analytics projects while completing my BSc Mathematics & Information Systems degree.
-
-### 📍 Current Focus
-
-![Current Focus](https://img.shields.io/badge/Current%20Focus-Arsenal%20Analytics%20Dashboard-blue)
 
 <h3 align="center">📍 Current Focus</h3>
 
