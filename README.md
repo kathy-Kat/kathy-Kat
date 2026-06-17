@@ -159,7 +159,6 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 - Junior Data / BI Analyst Role
 <br>
 
-<hr>
 
 <h2 align="center">📍 Current Focus</h3>
 
