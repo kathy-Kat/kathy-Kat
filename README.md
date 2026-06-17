@@ -161,7 +161,7 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 
 <hr>
 
-<h3 align="center">📍 Current Focus</h3>
+<h2 align="center">📍 Current Focus</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=0A66C2&center=true&vCenter=true&width=800&lines=Building+Power+BI+Analytics+Projects;Developing+SQL+Skills;Learning+Python+for+Data+Analysis;Creating+Sports+Analytics+Dashboards;Working+toward+a+Junior+Data+%2F+BI+Analyst+Role" />
