@@ -111,8 +111,8 @@ Power BI • Data modeling • Dashboard development </p>
 
 ## 🌱 Current Focus (June 2026)
 
-⚽ Tottenham Hotspur Performance Analytics <br>
-⚽ Arsenal Performance Analytics <br>
+⚽ Tottenham Hotspur Performance Analytics....IN PROGRESS <br>
+⚽ Arsenal Performance Analytics...COMING SOON! <br>
 📊 Advanced DAX & Data Modeling <br>
 🐍 Python for Data Analysis <br>
 🏗️ Building a Football Data Warehouse
