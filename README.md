@@ -110,9 +110,10 @@ Power BI • Data modeling • Dashboard development </p>
 📊 Advanced DAX & Data Modeling <br>
 🐍 Python for Data Analysis <br>
 🏗️ Building a Football Data Warehouse
+
+
 <br>
 
-<hr>
 
 ## 📊 GitHub Stats
 
