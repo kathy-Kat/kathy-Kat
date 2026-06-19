@@ -80,7 +80,7 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects...
 
 <p align="center">
 <strong>⚽ Manchester City 2023/24 Analytics PREVIEW</strong> <br>
