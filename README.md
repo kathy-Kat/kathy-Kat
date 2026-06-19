@@ -52,6 +52,7 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 
 ### Welcome to my football analytics workspace
 Here I explore player performance, team metrics, salary efficiency, and match data using SQL, Python, Power BI, and statistics.
+
 <br>
 
 ### 🔬 Current Research
