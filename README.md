@@ -19,9 +19,7 @@ I am passionate about transforming data into meaningful insights.
 I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python.
 
 **_Currently building projects focused on:_** 
-- Data analytics & sports metrics
-- Business intelligence
-- Responsive Web design
+- Data analytics, sports performance metrics & Business intelligence
 <br>
 <hr>
 
