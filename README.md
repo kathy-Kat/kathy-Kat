@@ -74,13 +74,13 @@ Here I explore player performance, team metrics, salary efficiency, and match da
 <br>
 <hr>
 
-### 🚀 Next Project
+## 🚀 Next Project
 
 Building an end-to-end Premier League analytics platform featuring ETL pipelines, SQL databases,and interactive Power BI dashboards.
 
 <br>
 
-## Featured Projects...
+### Featured Project...
 
 <p align="center">
 <strong>⚽ Manchester City 2023/24 Analytics PREVIEW</strong> <br>
