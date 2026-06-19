@@ -16,7 +16,7 @@ Aspiring Data & BI Analyst <br>
 ## 👨‍💻 About Me
 
 I am passionate about transforming data into meaningful insights.
-I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python.
+I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python.<br>
 **_Currently building projects focused on:_** <br>
 - Data analytics, sports performance metrics & Business intelligence
 <br>
