@@ -84,7 +84,7 @@ Building an end-to-end Premier League analytics platform featuring ETL pipelines
 
 <p align="center">
 <strong>⚽ Manchester City 2023/24 Analytics PREVIEW</strong> <br>
-Power BI • Data modeling • Dashboard development </p>
+Power BI • Sports analytics • Dashboard development & visualisation </p>
 
 
 <img width="1320" height="734" alt="image" src="https://github.com/user-attachments/assets/130b6067-1ab9-406d-afd2-3fb92be1733d" />
