@@ -70,8 +70,8 @@ Here I explore player performance, team metrics, salary efficiency, and match da
 📈 Dashboards Built: **3+** <br>
 🗄️ SQL Queries Written: **50+** <br>
 🐍 Python Projects: **Growing**
-<br>
 
+<br>
 <hr>
 
 ### 🚀 Next Project
