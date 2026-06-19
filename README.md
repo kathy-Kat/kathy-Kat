@@ -15,7 +15,7 @@ Aspiring Data & BI Analyst <br>
 
 ## 👨‍💻 About Me
 
-<pre>I am passionate about transforming data into meaningful insights. I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python. Currently building projects focused on: Data analytics, sports performance metrics & Business intelligence </pre>
+I am passionate about transforming data into meaningful insights. I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python. Currently building projects focused on: Data analytics, sports performance metrics & Business intelligence.
 
 <br>
 
@@ -51,9 +51,9 @@ Aspiring Data & BI Analyst <br>
 ## ⚽ Football Analytics Lab
 
 ### Welcome to my football analytics workspace
-Here I explore player performance, team metrics, <br>
+<pre>Here I explore player performance, team metrics, <br>
 salary efficiency, and match data using SQL, <br>
-Python, Power BI, and statistics.<br>
+Python, Power BI, and statistics.<br></pre>
 
 <br>
 
