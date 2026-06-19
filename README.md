@@ -174,10 +174,8 @@ Power BI • Data modeling • Dashboard development </p>
 ## 🎯 Career Goal
 
 To become a data professional specializing in Data Analytics, Data Science, and Data Engineering, transforming data into actionable insights, intelligent solutions, and scalable data systems.
+
 <br>
-
-
-### 🚀 Areas of Interest
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data_Analytics-0052CC?style=flat&logo=googleanalytics&logoColor=white">
