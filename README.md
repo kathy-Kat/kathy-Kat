@@ -51,8 +51,7 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 ## ⚽ Football Analytics Lab
 
 ### Welcome to my football analytics workspace
-<pre>Here I explore player performance, team metrics, salary efficiency, and match data <br>
-using SQL, Python, Power BI, and statistics.<br></pre>
+Here I explore player performance, team metrics, salary efficiency, and match data using SQL, Python, Power BI, and statistics.
 <br>
 
 ### 🔬 Current Research
@@ -61,6 +60,7 @@ using SQL, Python, Power BI, and statistics.<br></pre>
 🟨 Premier League Salary Intelligence <br>
 🟩 Football Data Warehouse <br>
 🟦 Player Performance Modelling
+
 <br>
 
 ### 📊 Lab Metrics
