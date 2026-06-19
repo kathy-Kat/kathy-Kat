@@ -21,7 +21,6 @@ Data analytics, sports performance metrics & Business intelligence
 
 <br>
 
-<hr>
 
 ## 🛠 Tech Stack
 <p align="center">
