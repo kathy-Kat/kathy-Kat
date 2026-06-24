@@ -76,19 +76,34 @@ Here I explore player performance, team metrics, salary efficiency, and match da
 
 ## ⚽ Football Analytics
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sports_Analytics-1E90FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-FF6B35?style=flat-square"/>
+<h2 align="center">⚽ Football Analytics</h2>
+
+<p align="center">
+  Building football analytics dashboards using Power BI, DAX, SQL and data modelling.
 </p>
 
-## 🚀 Next Project
+<p align="center">
+  <a href="YOUR-TOTTENHAM-REPO">
+    <img src="https://img.shields.io/badge/View-Tottenham_Dashboard-132257?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-Building an end-to-end Premier League analytics platform featuring ETL pipelines, SQL databases,and interactive Power BI dashboards.
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-000000?style=plastic&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sports_Analytics-132257?style=plastic" />
+</p>
 
 <br>
+
+### 📊 Analytics Snapshot
+
+```yaml
+Datasets Analyzed : 15+
+Dashboards Built  : 3+
+SQL Queries       : 50+
+Python Projects   : Growing
 
 ### Featured Project...
 
