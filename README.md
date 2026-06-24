@@ -50,8 +50,8 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 
 ## 📊 Lab Metrics
 
-⚽ Datasets Analyzed: **15+ explored** <br>
-📈 Dashboards Built: **3+ Power BI dashboards completed** <br>
+⚽ Datasets: **15+ explored** <br>
+📈 Dashboards: **3+ Power BI dashboards completed** <br>
 🗄️ SQL Queries Written: **50+** <br>
 🐍 Python Projects: **In progress**
 
