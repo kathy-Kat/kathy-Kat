@@ -55,15 +55,6 @@ Here I explore player performance, team metrics, salary efficiency, and match da
 
 <br>
 
-### 🔬 Current Research
-
-🟥 Arsenal Performance Analytics (25/26 Season) <br>
-🟨 Premier League Salary Intelligence <br>
-🟩 Football Data Warehouse <br>
-🟦 Player Performance Modelling
-
-<br>
-
 ### 📊 Lab Metrics
 
 ⚽ Datasets Analyzed: **15+** <br>
@@ -99,7 +90,7 @@ Here I explore player performance, team metrics, salary efficiency, and match da
 
 ### 📊 Analytics Snapshot
 
-```yaml
+
 Datasets Analyzed : 15+
 Dashboards Built  : 3+
 SQL Queries       : 50+
