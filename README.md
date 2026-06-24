@@ -48,29 +48,18 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 
 <hr>
 
-## ⚽ Football Analytics Lab
+## 📊 Lab Metrics
 
-### Welcome to my football analytics workspace
-Here I explore player performance, team metrics, salary efficiency, and match data using SQL, Python, Power BI, and statistics.
-
-<br>
-
-### 📊 Lab Metrics
-
-⚽ Datasets Analyzed: **15+** <br>
-📈 Dashboards Built: **3+** <br>
+⚽ Datasets Analyzed: **15+ explored** <br>
+📈 Dashboards Built: **3+ Power BI dashboards completed** <br>
 🗄️ SQL Queries Written: **50+** <br>
-🐍 Python Projects: **Growing**
+🐍 Python Projects: **In progress**
 
 <br>
-<hr>
-
-## ⚽ Football Analytics
 
 <h2 align="center">⚽ Football Analytics</h2>
 
-<p align="center">
-  Building football analytics dashboards using Power BI, DAX, SQL and data modelling.
+<p align="center">Here I explore player performance, team metrics, salary efficiency, and match data using SQL, Python, Power BI, and statistics. using Power BI, DAX, SQL and data modelling.
 </p>
 
 <p align="center">
@@ -88,13 +77,6 @@ Here I explore player performance, team metrics, salary efficiency, and match da
 
 <br>
 
-### 📊 Analytics Snapshot
-
-
-Datasets Analyzed : 15+
-Dashboards Built  : 3+
-SQL Queries       : 50+
-Python Projects   : Growing
 
 ### Featured Project...
 
