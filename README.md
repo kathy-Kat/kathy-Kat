@@ -97,7 +97,6 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 | ⚽ [Tottenham Hotspur 2025/26 PL Analytics](https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main) | Data dashboard tracking Tottenham match performance, goals, wins, and season trends. | Power BI |
 | ⚽ [Manchester City 2023/24 PL Season](https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard) | Football performance dashboard analyzing team stats, match results, and player performance. | Power BI |
 | 📊 [Global Sales Analytics](https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard) | Interactive Power BI dashboard analyzing global sales performance, profit, and regional trends. | Power BI |
-| 🧮 [Simple Calculator](https://github.com/kathy-Kat/CALCULATOR) | Basic calculator application performing arithmetic operations with a clean user interface. | HTML5, CSS3, JS, Python |
 <br>
 
 <hr>
