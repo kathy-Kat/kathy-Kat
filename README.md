@@ -74,6 +74,16 @@ Here I explore player performance, team metrics, salary efficiency, and match da
 <br>
 <hr>
 
+## ⚽ Football Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sports_Analytics-1E90FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-FF6B35?style=flat-square"/>
+</p>
+
 ## 🚀 Next Project
 
 Building an end-to-end Premier League analytics platform featuring ETL pipelines, SQL databases,and interactive Power BI dashboards.
