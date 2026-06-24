@@ -73,14 +73,14 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 <br>
 
 
-### Featured Project...
-
 <p align="center">
 <strong>⚽ Manchester City 2023/24 Analytics PREVIEW</strong> <br>
 Power BI • Sports analytics • Dashboard development & visualisation </p>
 
 
 <img width="1320" height="734" alt="image" src="https://github.com/user-attachments/assets/130b6067-1ab9-406d-afd2-3fb92be1733d" />
+
+
 <br>
 
 
