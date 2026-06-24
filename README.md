@@ -59,9 +59,8 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 
 <h2 align="center">⚽ Football Analytics ⚽ </h2>
 
-<p align="center">Here I explore player performance, team metrics, salary efficiency, and match data using SQL, Python, Power BI, and statistics. using Power BI, DAX, SQL and data modelling.
+<p align="center">Here I explore player performance, team metrics, salary efficiency, and match data using using Power BI, DAX, SQL and data modelling.
 </p>
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
