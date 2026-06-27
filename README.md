@@ -3,7 +3,7 @@
 <p align="center">
 <strong>🎓 BSc Mathematics & Information Systems Student</strong> <br>
 📊 Aspiring Data & BI Analyst | Power BI • SQL • Excel • Python <br>
-<strong>⚽ Sports Analytics | Business Intelligence | Data Storytelling</strong <br>
+⚽ Sports Analytics | Business Intelligence | Data Storytelling <br>
 </p>
 
 
