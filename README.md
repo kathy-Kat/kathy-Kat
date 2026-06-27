@@ -68,10 +68,11 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-000000?style=plastic&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sports_Analytics-132257?style=plastic" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-000000?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-4B8BBE?style=flat&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sports_Analytics-132257?style=flat" />
 </p>
 
 <br>
