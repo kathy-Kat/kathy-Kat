@@ -13,7 +13,8 @@
 
 ## 👨‍💻 About Me
 
-I am passionate about transforming data into meaningful insights. I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python. Currently building projects focused on: Data analytics, sports performance metrics & Business intelligence. <br>
+I am passionate about transforming data into meaningful insights. I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python. Currently building projects focused on: Data analytics, sports performance metrics & Business intelligence. 
+<br>
 **See my full portfolio:👉** [Modern Data Stack Projects](https://github.com/kathy-Kat/Modern-Data-Stack-Projects-Power-BI-SQL-Snowflake-ETL-) 
 
 <br>
