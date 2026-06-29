@@ -123,18 +123,9 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=aura" />
 </p>
+
+
 <br>
-
-<hr>
-
-## 📜 Certifications
-
-✅ Completed interactive SQL Tutorial - **SQLBolt** <br>
-✅ Introduction to SQL - **DataCamp** <br>
-✅ Understanding Data Visualization - **DataCamp** <br>
-✅ AI Fundamentals - **DataCamp** <br>
-🔃 Relational Databases - **FreeCodeCamp** <br>
-🔃 Responsive Web-design - **FreeCodeCamp** <br>
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <br>
