@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>🎓 BSc Mathematics & Information Systems Student</strong> <br>
-📊 Aspiring Data & BI Analyst | Power BI • SQL • Excel • Python <br>
+📊 Aspiring Data Engirneer | Data analytics • Power BI • SQL • Excel • Python <br>
 ⚽ Exploring Sports Analytics | Business Intelligence | Data Storytelling <br>
 </p>
 
