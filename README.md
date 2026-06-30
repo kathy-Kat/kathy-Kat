@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Johannesburg-South%20Africa-1f6feb?style=flat&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
+<br>
+
 ## 👨‍💻 About Me
 
 I am passionate about transforming data into meaningful insights. I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, SQL, and Python. Currently building projects focused on: Data analytics, sports performance metrics & Business intelligence. 
