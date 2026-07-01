@@ -104,7 +104,7 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 <br>
 
 
-## 🌱 Current Focus (June 2026)
+## 🌱 Current Focus (July 2026)
 
 ⚽ Tottenham Hotspur Performance Analytics....**IN PROGRESS** <br>
 ⚽ Arsenal Performance Analytics...**COMING SOON!** <br>
@@ -126,9 +126,10 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 <br>
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 <br>
 
-<hr>
 
 ## ⌛ 2026 Data career roadmap
 
