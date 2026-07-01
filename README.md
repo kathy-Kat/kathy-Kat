@@ -122,10 +122,6 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathy-Kat&theme=aura" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy-Kat&layout=compact&theme=aura" />
-</p>
-
 
 <br>
 
