@@ -57,12 +57,7 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 
 <br>
 
-## 📊 Lab Metrics
-
-⚽ Datasets: **15+ explored** <br>
-📈 Dashboards: **3+ Power BI dashboards completed** <br>
-🗄️ SQL Queries Written: **50+** <br>
-🐍 Python Projects: **In progress**
+<hr>
 
 <br>
 
@@ -129,6 +124,8 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 
 
 <br>
+
+<hr>
 
 
 ## ⌛ 2026 Data career roadmap
