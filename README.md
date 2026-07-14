@@ -22,7 +22,6 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 
 <br>
 
-
 ## 🛠 Tech Stack
 
 <p>
@@ -173,9 +172,9 @@ To become a data professional specializing in Data Analytics, Data Science, and 
   <img src="https://img.shields.io/badge/Data_Engineering-4285F4?style=flat&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=tensorflow&logoColor=orange">
 </p>
+
 <br>
 
-<hr>
 
 ## 📫 Connect With me
 
