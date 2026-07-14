@@ -150,6 +150,8 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 - Junior Data / BI Analyst Role
 <br>
 
+<hr>
+
 
 <h2 align="center">📍 Current Focus</h3>
 
