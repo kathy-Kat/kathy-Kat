@@ -25,7 +25,7 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<p>
   <!-- Data Sources -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
