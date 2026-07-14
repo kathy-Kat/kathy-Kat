@@ -57,7 +57,6 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 
 <br>
 
-<hr>
 
 <h2 align="center">⚽ Football Analytics ⚽ </h2>
 
