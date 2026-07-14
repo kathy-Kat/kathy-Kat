@@ -105,9 +105,9 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 🐍 Python for Data Analysis <br>
 🏗️ Building a Football Data Warehouse
 
-
 <br>
 
+<hr>
 
 ## 📊 GitHub Stats
 
