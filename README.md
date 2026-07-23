@@ -81,8 +81,16 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 <img width="1320" height="734" alt="image" src="https://github.com/user-attachments/assets/130b6067-1ab9-406d-afd2-3fb92be1733d" />
 
 
-<br>
+<hr>
 
+<p align="center">
+<strong>📊 Global Sales Analytics Dashboard PREVIEW</strong> <br>
+Power BI • Retail sales analytics • DAX • Dashboard development & visualisation </p>
+
+
+<img width="1328" height="739" alt="image" src="https://github.com/user-attachments/assets/a3f44363-02f0-4214-b30e-9384a840efa6" />
+
+<br>
 
 | 📌 Project | 🧠 Description | 🛠 Tools |
 |------------|---------------|----------|
