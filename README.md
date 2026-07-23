@@ -88,7 +88,7 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 Power BI • Retail sales analytics • DAX • Data visualisation & visualisation </p>
 
 
-<img width="1328" height="739" alt="image" src="https://github.com/user-attachments/assets/a3f44363-02f0-4214-b30e-9384a840efa6" />
+<img width="1328" height="739" alt="image" src="https://github.com/user-attachments/assets/a3f44363-02f0-4214-b30e-9384a840efa6" /> <br>
 
 <br>
 
