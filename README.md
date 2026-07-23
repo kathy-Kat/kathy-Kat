@@ -84,7 +84,7 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 <hr>
 
 
-<h2 align="center">⚽ Sales Analytics ⚽ </h2>
+<h2 align="center"> 🛒 Sales Analytics 🛒 </h2>
 
 <p align="center"> Retails sales reports using using Power BI, DAX, SQL and data modelling.
 </p>
