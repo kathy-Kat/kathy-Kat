@@ -83,6 +83,21 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 
 <hr>
 
+
+<h2 align="center">⚽ Sales Analytics ⚽ </h2>
+
+<p align="center"> Retails sales reports using using Power BI, DAX, SQL and data modelling.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-000000?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-4B8BBE?style=flat&logo=apacheairflow&logoColor=white" />
+</p>
+
+<br>
+
 <p align="center">
 <strong>📊 Global Sales Analytics Dashboard PREVIEW</strong> <br>
 Power BI • Retail sales analytics • DAX • Data visualisation & visualisation </p>
