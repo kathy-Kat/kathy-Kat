@@ -118,17 +118,8 @@ Power BI • Retail sales analytics • DAX • Data visualisation & visualisati
 <br>
 
 
-## 🌱 Current Focus (July 2026)
-
-⚽ Tottenham Hotspur Performance Analytics....**IN PROGRESS** <br>
-⚽ Arsenal Performance Analytics...**COMING SOON!** <br>
-📊 Advanced DAX & Data Modeling <br>
-🐍 Python for Data Analysis <br>
-🏗️ Building a Football Data Warehouse
-
-<br>
-
 <hr>
+
 
 ## 📊 GitHub Stats
 
