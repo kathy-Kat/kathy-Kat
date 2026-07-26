@@ -59,7 +59,8 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 
 <h2 align="center">⚽ Football Analytics ⚽ </h2>
 
-<p align="center">Here I explore player performance, team metrics, salary efficiency, and match data using using Power BI, DAX, SQL and data modelling.
+<p align="center"> <strong>⚽ Manchester City 2023/24 Analytics </strong> <br>
+ Here I explore player performance, team metrics, salary efficiency, and match data using using Power BI, DAX, SQL and data modelling.
 </p>
 
 <p align="center">
@@ -74,7 +75,7 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 
 
 <p align="center">
-<strong>⚽ Manchester City 2023/24 Analytics PREVIEW</strong> <br>
+<PREVIEW</strong> <br>
 Power BI • Sports analytics • Dashboard development & visualisation </p>
 
 
