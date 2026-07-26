@@ -24,7 +24,6 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 ## 🛠 Tech Stack
 
 <p>
-  <p align="center">
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white" alt="Google Sheets">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
   <img src="https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white" alt="Google Looker Studio">
