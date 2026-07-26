@@ -10,7 +10,6 @@ Passionate about Business Intelligence & Data Storytelling <br>
   <img src="https://img.shields.io/badge/Open_to_Work-Remote%20%7C%20Hybrid%20%7C%20Onsite-2ea44f?style=flat&logo=linkedin&logoColor=white" alt="Open to Work">
   <img src="https://img.shields.io/badge/Johannesburg-South%20Africa-1f6feb?style=flat&logo=googlemaps&logoColor=white" alt="Location">
 </p>
-
 <br>
 
 ## 👨‍💻 About Me
