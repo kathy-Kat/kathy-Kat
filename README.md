@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>🎓 BSc Mathematics & Information Systems </strong> <br>
-📊 Aspiring Data Analyst | BI Developer | • Power BI • Google Looker • SQL • Excel • Google Sheets • Python <br>
+📊 Aspiring Data Analyst & BI Developer | • Power BI • Google Looker • SQL • Excel • Google Sheets • Python <br>
 Passionate about Business Intelligence & Data Storytelling <br>
 </p>
  
