@@ -73,9 +73,8 @@ I am passionate about transforming data into meaningful insights. I enjoy buildi
 
 <br>
 
-
 <p align="center">
-<PREVIEW</strong> <br>
+<strong> PREVIEW </strong> <br>
 Power BI • Sports analytics • Dashboard development & visualisation </p>
 
 
