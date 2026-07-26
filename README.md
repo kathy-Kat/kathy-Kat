@@ -103,7 +103,29 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 Power BI • Retail sales analytics • DAX • Data visualisation & visualisation </p>
 
 
-<img width="1328" height="739" alt="image" src="https://github.com/user-attachments/assets/a3f44363-02f0-4214-b30e-9384a840efa6" /> <br>
+<img width="1328" height="739" alt="image" src="https://github.com/user-attachments/assets/a3f44363-02f0-4214-b30e-9384a840efa6" />
+
+
+<hr>
+
+
+<p align="center">
+<strong>💸 E-commerce Regional Sales Dashboard💸 PREVIEW</strong></p> <br>
+<p align="center"> Using Google Gemini, generated a 12-month synthetic dataset (August 2025 – July 2026) modelling real-world business dynamics like holiday spikes and product-specific return rates. 
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Snowflake_SQL-29B5E8?style=flat&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Interactive_Dashboard-0F9D58?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Assisted_Analytics-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
+</p>
+
+<img width="1188" height="1079" alt="image" src="https://github.com/user-attachments/assets/3b72ac1e-0324-4966-8909-799c277d508f" /> <br>
+
+
 
 <br>
 
