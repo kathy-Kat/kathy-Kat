@@ -86,7 +86,8 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 
 <h2 align="center"> 🛒 Sales Analytics 🛒 </h2>
 
-<p align="center"> Retails sales reports using using Power BI, DAX, SQL and data modelling.
+<p align="center"> <strong>📊 Global Sales Analytics Dashboard 📊</strong> <br>
+ Retails sales reports using using Power BI, DAX, SQL and data modelling.
 </p>
 
 <p align="center">
@@ -99,8 +100,8 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 <br>
 
 <p align="center">
-<strong>📊 Global Sales Analytics Dashboard PREVIEW</strong> <br>
-Power BI • Retail sales analytics • DAX • Data visualisation & visualisation </p>
+<strong> PREVIEW </strong> <br>
+Power BI • Retail sales analytics • DAX • Data visualisation </p>
 
 
 <img width="1328" height="739" alt="image" src="https://github.com/user-attachments/assets/a3f44363-02f0-4214-b30e-9384a840efa6" />
@@ -110,10 +111,9 @@ Power BI • Retail sales analytics • DAX • Data visualisation & visualisati
 
 
 <p align="center">
-<strong>💸 E-commerce Regional Sales Dashboard💸 PREVIEW</strong></p> <br>
-<p align="center"> Using Google Gemini, generated a 12-month synthetic dataset (August 2025 – July 2026) modelling real-world business dynamics like holiday spikes and product-specific return rates. 
+<strong>💸 E-commerce Regional Sales Dashboard💸</strong><br>
+Using Google Gemini, generated a 12-month synthetic dataset (August 2025 – July 2026) modelling real-world business dynamics like holiday spikes and product-specific return rates. 
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Snowflake_SQL-29B5E8?style=flat&logo=snowflake&logoColor=white" />
@@ -122,6 +122,12 @@ Power BI • Retail sales analytics • DAX • Data visualisation & visualisati
   <img src="https://img.shields.io/badge/Interactive_Dashboard-0F9D58?style=flat&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Assisted_Analytics-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
 </p>
+
+<br> 
+
+<p align="center">
+<strong> PREVIEW </strong> <br>
+Google GEMINI • Google Sheets • Google Looker • Snowflake SQL • Data Storytelling </p>
 
 <img width="1188" height="1079" alt="image" src="https://github.com/user-attachments/assets/3b72ac1e-0324-4966-8909-799c277d508f" /> <br>
 
