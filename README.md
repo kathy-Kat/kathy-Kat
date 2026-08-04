@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>🎓 BSc Mathematics & Information Systems </strong> <br>
-📊 Aspiring Data Analyst & BI Developer | Power BI • Google Looker • SQL • Excel • Google Sheets • Python <br>
+📊 Aspiring Data Analyst & BI Developer | Power BI • Google Looker • SQL • Excel • Python <br>
 Passionate about Business Intelligence & Data Storytelling <br>
 </p>
  
@@ -12,7 +12,7 @@ Passionate about Business Intelligence & Data Storytelling <br>
 </p>
 <br>
 
-### SEE MY FULL PORTFOLIO: <br>
+#### SEE MY FULL PORTFOLIO: <br>
 👉[Data Stack Projects](https://github.com/kathy-Kat/Modern-Data-Stack-Projects-Power-BI-SQL-Snowflake-ETL-) 
 <br>
 
