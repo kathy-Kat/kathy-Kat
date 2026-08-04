@@ -16,10 +16,7 @@ Passionate about Business Intelligence & Data Storytelling <br>
 👉[Data Stack Projects](https://github.com/kathy-Kat/Modern-Data-Stack-Projects-Power-BI-SQL-Snowflake-ETL-) 
 <br>
 
-I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, Google Sheets and SQL. Currently building projects focused on: Data analytics, Business intelligence and AI-assisted insights. 
-<br>
-
-<hr>
+I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, Google Sheets and SQL. Currently building projects focused on: Data analytics, Business intelligence and AI-assisted insights
 
 <br>
 
@@ -44,6 +41,8 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 </p>
 
 <br>
+
+<hr>
 
 
 <h2 align="center">⚽ Football Analytics ⚽ </h2>
