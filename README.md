@@ -12,12 +12,14 @@ Passionate about Business Intelligence & Data Storytelling <br>
 </p>
 <br>
 
-## 👨‍💻 About Me
+### SEE MY FULL PORTFOLIO: <br>
+👉[Data Stack Projects](https://github.com/kathy-Kat/Modern-Data-Stack-Projects-Power-BI-SQL-Snowflake-ETL-) 
+<br>
 
 I enjoy building dashboards, analyzing trends, and creating data-driven solutions using Power BI, Google Sheets and SQL. Currently building projects focused on: Data analytics, Business intelligence and AI-assisted insights. 
 <br>
 
-**SEE MY FULL PORTFOLIO:👉** [Data Stack Projects](https://github.com/kathy-Kat/Modern-Data-Stack-Projects-Power-BI-SQL-Snowflake-ETL-) 
+<hr>
 
 <br>
 
