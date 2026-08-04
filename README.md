@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Cathy 👋</h1>
 
 <p align="center">
-<strong>🎓 BSc Mathematics & Information Systems </strong> <br>
-📊 Data & Analytics | Power BI • Google Looker • Data Visualisation • SQL • Excel • Python <br>
+<strong>🎓 BSc Mathematics & Information Systems student </strong> <br>
+📊 Exploring Data & Analytics | Power BI • Google Looker • Data Visualisation • SQL • Excel • Python <br>
 Passionate about Business Intelligence & Data Storytelling <br>
 </p>
  
