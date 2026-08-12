@@ -47,7 +47,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 <h2 align="center"> 📈 SQL Projects 📈 </h2>
 
 <p align="center"> 
-<strong> 🧮 SQL Tests based on the E-commerce Regional Sales Dataset 🧮. </strong> <br>
+<strong> 🧮 SQL Tests | E-commerce Regional Sales Dataset 🧮. </strong> <br>
 Data exploration & cleaning • Data quality • Data analysis • ETL concepts
 </p>
 
@@ -59,8 +59,7 @@ Data exploration & cleaning • Data quality • Data analysis • ETL concepts
 <br>
 
 <p align="center">
-<strong> PREVIEW </strong> <br>
-PostgreSQL • SQL • Data analysis </p>
+<strong> PREVIEW </strong> </p>
 
 <img width="1880" height="963" alt="image" src="https://github.com/user-attachments/assets/212a0f6b-096b-40c8-b7c3-877045a6fc39" />
 
