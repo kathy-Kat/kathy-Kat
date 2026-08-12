@@ -47,7 +47,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 <h2 align="center"> 📈 SQL Projects 📈 </h2>
 
 <p align="center"> <strong> Data exploration, data quality and data analysis </strong> <br>
- Projects to clean, analyse and assess data.
+ Projects to clean, analyse and assess data - filering and sorting, data exploration, ETL concepts
 </p>
 
 <p align="center">
@@ -60,6 +60,8 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 <p align="center">
 <strong> PREVIEW </strong> <br>
 PostgreSQL • SQL • Data analysis </p>
+
+<img width="1880" height="963" alt="image" src="https://github.com/user-attachments/assets/212a0f6b-096b-40c8-b7c3-877045a6fc39" />
 
 
 <hr>
