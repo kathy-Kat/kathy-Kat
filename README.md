@@ -46,8 +46,9 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 <h2 align="center"> 📈 SQL Projects 📈 </h2>
 
-<p align="center"> <strong> Data exploration, data quality and data analysis </strong> <br>
- Projects to clean, analyse and assess data - filering and sorting, data exploration, ETL concepts
+<p align="center"> 
+<strong> 🧮 SQL Tests based on the E-commerce Regional Sales Dataset 🧮. </strong> <br>
+Data exploration & cleaning • Data quality • Data analysis • ETL concepts
 </p>
 
 <p align="center">
