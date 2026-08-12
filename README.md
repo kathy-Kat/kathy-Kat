@@ -44,10 +44,30 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 <hr>
 
+<h2 align="center"> 📈 SQL Projects 📈 </h2>
+
+<p align="center"> <strong> Data exploration, data quality and data analysis </strong> <br>
+ Projects to clean, analyse and assess data.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-4B8BBE?style=flat&logo=apacheairflow&logoColor=white" />
+</p>
+
+<br>
+
+<p align="center">
+<strong> PREVIEW </strong> <br>
+PostgreSQL • SQL • Data analysis </p>
+
+
+<hr>
+
 
 <h2 align="center">⚽ Football Analytics ⚽ </h2>
 
-<p align="center"> <strong>⚽ Manchester City 2023/24 Analytics </strong> <br>
+<p align="center"> <strong> Manchester City 2023/24 Analytics </strong> <br>
  Here I explore player performance, team metrics, salary efficiency, and match data using using Power BI, DAX, SQL and data modelling.
 </p>
 
