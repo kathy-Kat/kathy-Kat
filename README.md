@@ -42,6 +42,9 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 <br>
 
+
+# 🗃️ Featured Projects
+
 | 📌 Project | 🧠 Description | 🛠 Tools |
 |------------|---------------|----------|
 | 🧮 [Regional Sales SQL Business Analysis](https://github.com/kathy-Kat/Modern-Data-Stack-Projects-Power-BI-SQL-Snowflake-ETL-/tree/main/SQL/PROJECTS/Project_01) | Explored the structure of the dataset, identified the date range, regions and product categories, and reviewed the available records. | PostgreSQL |
