@@ -42,7 +42,20 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 <br>
 
+| 📌 Project | 🧠 Description | 🛠 Tools |
+|------------|---------------|----------|
+| 🧮 [Regional Sales SQL Business Analysis](https://github.com/kathy-Kat/Modern-Data-Stack-Projects-Power-BI-SQL-Snowflake-ETL-/tree/main/SQL/PROJECTS/Project_01) | Explored the structure of the dataset, identified the date range, regions and product categories, and reviewed the available records. | PostgreSQL |
+| 🛒 [Regional Sales/ Customer Feedback](https://github.com/kathy-Kat/Regional-sales-customer-insights)| E-commerce customer insights to analyze regional sales performance, customer satisfaction, return rates, and customer feedback trends | Google Looker Studio|
+| ⚽ [Manchester City 2023/24 PL Season](https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard) | Football performance dashboard analyzing team stats, match results, and player performance. | Power BI |
+| 📊 [Global Sales Analytics](https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard) | Interactive Power BI dashboard analyzing global sales performance, profit, and regional trends. | Power BI |
+| ⚽ [Tottenham Hotspur 2025/26 PL Analytics](https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main) | Data dashboard tracking Tottenham match performance, goals, wins, and season trends. | Power BI |
+
+
+<br>
+
+
 <hr>
+
 
 <h2 align="center"> 📈 SQL Projects 📈 </h2>
 
@@ -140,23 +153,6 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 
 
 <img width="1320" height="734" alt="image" src="https://github.com/user-attachments/assets/130b6067-1ab9-406d-afd2-3fb92be1733d" />
-
-
-<hr>
-
-
-<br>
-
-| 📌 Project | 🧠 Description | 🛠 Tools |
-|------------|---------------|----------|
-| 🧮 [Regional Sales SQL Business Analysis](https://github.com/kathy-Kat/Modern-Data-Stack-Projects-Power-BI-SQL-Snowflake-ETL-/tree/main/SQL/PROJECTS/Project_01) | Explored the structure of the dataset, identified the date range, regions and product categories, and reviewed the available records. | PostgreSQL |
-| 🛒 [Regional Sales/ Customer Feedback](https://github.com/kathy-Kat/Regional-sales-customer-insights)| E-commerce customer insights to analyze regional sales performance, customer satisfaction, return rates, and customer feedback trends | Google Looker Studio|
-| ⚽ [Manchester City 2023/24 PL Season](https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard) | Football performance dashboard analyzing team stats, match results, and player performance. | Power BI |
-| 📊 [Global Sales Analytics](https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard) | Interactive Power BI dashboard analyzing global sales performance, profit, and regional trends. | Power BI |
-| ⚽ [Tottenham Hotspur 2025/26 PL Analytics](https://github.com/kathy-Kat/Tottenham-23-24-Performance-Dashboard/tree/main) | Data dashboard tracking Tottenham match performance, goals, wins, and season trends. | Power BI |
-
-
-<br>
 
 
 <hr>
