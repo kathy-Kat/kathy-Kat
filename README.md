@@ -43,7 +43,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 <br>
 
 
-# 🗃️ Featured Projects
+## 🗃️ Featured Projects
 
 | 📌 Project | 🧠 Description | 🛠 Tools |
 |------------|---------------|----------|
