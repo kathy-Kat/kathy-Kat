@@ -1,16 +1,22 @@
+
 <h1 align="center">Hi, I'm Cathy 👋</h1>
 
+<h2 align="center">
+  🎓 BSc Mathematics & Information Systems | Student
+</h2>
+
 <p align="center">
-<strong>🎓 BSc Mathematics & Information Systems | Student </strong> <br>
-📊 Exploring Data & Analytics | Power BI • Data Visualisation • SQL • Excel • Python <br>
-Passionate about Business Intelligence & Data Storytelling <br>
+  📊 Exploring Data & Analytics | Power BI • Data Visualisation • SQL • Excel • Python <br>
+  Passionate about Business Intelligence & Data Storytelling
 </p>
- 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to_Work-Remote%20%7C%20Hybrid%20%7C%20Onsite-2ea44f?style=flat&logo=linkedin&logoColor=white" alt="Open to Work">
   <img src="https://img.shields.io/badge/South%20Africa-1f6feb?style=flat&logo=googlemaps&logoColor=white" alt="Location">
 </p>
+
 <br>
+
 
 #### SEE MY FULL PORTFOLIO: <br>
 👉[Data Stack Projects](https://github.com/kathy-Kat/Modern-Data-Stack-Projects-Power-BI-SQL-Snowflake-ETL-) 
