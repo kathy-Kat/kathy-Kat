@@ -47,6 +47,7 @@ I enjoy building dashboards, analyzing trends, and creating data-driven solution
 
 | 📌 Project | 🧠 Description | 🛠 Tools |
 |------------|---------------|----------|
+| 🧮 [Car Sales Data Analysis](https://github.com/kathy-Kat/Car-Sales-Data-Analysis) | This project explores a car sales dataset containing vehicle manufacturers, models, sales volumes, prices, vehicle types, and technical specifications. | MySQL |
 | 🧮 [Regional Sales SQL Business Analysis](https://github.com/kathy-Kat/Modern-Data-Stack-Projects-Power-BI-SQL-Snowflake-ETL-/tree/main/SQL/PROJECTS/Project_01) | Explored the structure of the dataset, identified the date range, regions and product categories, and reviewed the available records. | PostgreSQL |
 | 🛒 [Regional Sales/ Customer Feedback](https://github.com/kathy-Kat/Regional-sales-customer-insights)| E-commerce customer insights to analyze regional sales performance, customer satisfaction, return rates, and customer feedback trends | Google Looker Studio|
 | ⚽ [Manchester City 2023/24 PL Season](https://github.com/kathy-Kat/Man-City-23-24-Performance-Dashboard) | Football performance dashboard analyzing team stats, match results, and player performance. | Power BI |
