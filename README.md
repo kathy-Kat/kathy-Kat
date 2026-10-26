@@ -179,30 +179,84 @@ Power BI • Sports analytics • Dashboard development & visualisation </p>
 
 <br>
 
-<hr>
+---
 
+## ⌛ 2026 DATA CAREER ROADMAP
 
-## ⌛ 2026 Data career roadmap
+<p align="center">
+  <i>From analytical foundations to real-world data solutions.</i>
+</p>
 
-### Foundation ✅
-- SQL
-- Data Visualization
-- Dashboard Development
-- AI Fundamentals
-- Power BI Portfolio Projects
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🟢 FOUNDATION</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-COMPLETED-10B981?style=for-the-badge" />
+      </p>
+      <ul>
+        <li>SQL Fundamentals</li>
+        <li>Data Visualization</li>
+        <li>Dashboard Development</li>
+        <li>AI Fundamentals</li>
+        <li>Power BI Portfolio Projects</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/kathy-Kat/Global-Sales-Performance-Dashboard">
+          <img src="https://img.shields.io/badge/Explore-Power_BI_Projects-0D9488?style=flat-square&logo=powerbi&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="34%" valign="top">
+      <h3 align="center">🔵 GROWTH</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-2563EB?style=for-the-badge" />
+      </p>
+      <ul>
+        <li>Python for Data Analytics</li>
+        <li>Advanced DAX & Data Modeling</li>
+        <li>Statistical Analysis</li>
+        <li>End-to-End Analytics Projects</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/kathy-Kat/Car-Sales-Data-Analysis">
+          <img src="https://img.shields.io/badge/Explore-MySQL_Project-2563EB?style=flat-square&logo=mysql&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🟣 NEXT LEVEL</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/STATUS-UP_NEXT-7C3AED?style=for-the-badge" />
+      </p>
+      <ul>
+        <li>Data Engineering Projects</li>
+        <li>Cloud Fundamentals (AWS/Azure)</li>
+        <li>Professional Portfolio Expansion</li>
+        <li>Junior Data / BI Analyst Role</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FOCUS-Building_Toward_Impact-7C3AED?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Growth 🔄
-- Python for Data Analytics
-- Advanced DAX & Data Modeling
-- Statistical Analysis
-- End-to-End Analytics Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/LEARN-0F766E?style=for-the-badge" />
+  &nbsp;➜&nbsp;
+  <img src="https://img.shields.io/badge/BUILD-2563EB?style=for-the-badge" />
+  &nbsp;➜&nbsp;
+  <img src="https://img.shields.io/badge/ANALYSE-7C3AED?style=for-the-badge" />
+  &nbsp;➜&nbsp;
+  <img src="https://img.shields.io/badge/SHARE-DB2777?style=for-the-badge" />
+</p>
 
-### Next Level 🎯
-- Data Engineering Projects
-- Cloud Fundamentals (AWS/Azure)
-- Professional Portfolio Expansion
-- Junior Data / BI Analyst Role
-<br>
+<p align="center">
+  <i>Every project is another step toward becoming a data professional.</i>
+</p>
+
+---
 
 <hr>
 
