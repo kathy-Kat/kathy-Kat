@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-  📊 Exploring Data & Analytics • SQL • Excel • Power BI • Data Visualisation  • Python <br>
+  📊 <strong> Exploring Data & Analytics </strong> • SQL • Excel • Power BI • Data Visualisation  • Python <br>
   Passionate about Business Intelligence & Data Storytelling
 </p>
 
